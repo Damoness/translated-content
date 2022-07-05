@@ -241,6 +241,7 @@
 /de/docs/Glossary/Leeres_Element	/de/docs/Glossary/Empty_element
 /de/docs/Glossary/Objekt	/de/docs/Glossary/Object
 /de/docs/Glossary/Protokoll	/de/docs/Glossary/Protocol
+/de/docs/Glossary/Symbol	/de/docs/Web/JavaScript/Reference/Global_Objects/Symbol
 /de/docs/Glossary/Typ	/de/docs/Glossary/Type
 /de/docs/Glossary/einfache_datenelemente	/de/docs/Glossary/Primitive
 /de/docs/Glossary/verbotener_header_name	/de/docs/Glossary/Forbidden_header_name
@@ -761,6 +762,7 @@
 /de/docs/Web/JavaScript/Reference/Global_Objects/String/TrimLeft	/de/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart
 /de/docs/Web/JavaScript/Reference/Global_Objects/String/TrimRight	/de/docs/Web/JavaScript/Reference/Global_Objects/String/trimEnd
 /de/docs/Web/JavaScript/Reference/Global_Objects/String/suchen	/de/docs/Web/JavaScript/Reference/Global_Objects/String/search
+/de/docs/Web/JavaScript/Reference/Global_Objects/null	/de/docs/Web/JavaScript/Reference/Operators/null
 /de/docs/Web/JavaScript/Reference/Klassen	/de/docs/Web/JavaScript/Reference/Classes
 /de/docs/Web/JavaScript/Reference/Klassen/constructor	/de/docs/Web/JavaScript/Reference/Classes/constructor
 /de/docs/Web/JavaScript/Reference/Klassen/extends	/de/docs/Web/JavaScript/Reference/Classes/extends
