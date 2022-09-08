@@ -836,6 +836,7 @@
 /zh-TW/docs/Web/JavaScript/Reference/Operators/Comparison_Operators	/zh-TW/docs/conflicting/Web/JavaScript/Reference/Operators_310dc67549939233c3d18a8fa2cdbb23
 /zh-TW/docs/Web/JavaScript/Reference/Operators/Logical_Operators	/zh-TW/docs/conflicting/Web/JavaScript/Reference/Operators_f71733c8e7001a29c3ec40d8522a4aca
 /zh-TW/docs/Web/JavaScript/Same_origin_policy_for_JavaScript	/zh-TW/docs/Web/Security/Same-origin_policy
+/zh-TW/docs/Web/JavaScript/Shells	/zh-TW/docs/conflicting/Web/JavaScript/JavaScript_technologies_overview_0191f05ec18a4ee4d771b548feb0701d
 /zh-TW/docs/Web/JavaScript/Typed_arrays/ArrayBuffer	/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer
 /zh-TW/docs/Web/JavaScript/Typed_arrays/ArrayBuffer/prototype	/zh-TW/docs/conflicting/Web/JavaScript/Reference/Global_Objects/ArrayBuffer
 /zh-TW/docs/Web/JavaScript/資料結構	/zh-TW/docs/Web/JavaScript/Data_structures
