@@ -1,10 +1,9 @@
 ---
-title: "@scroll-timeline"
-slug: Web/CSS/@scroll-timeline
+title: '@scroll-timeline'
+slug: Web/CSS/scroll-timeline
 translation_of: Web/CSS/@scroll-timeline
+original_slug: Web/CSS/@scroll-timeline
 browser-compat: css.at-rules.scroll-timeline
-l10n:
-  sourceCommit: cfeaf30adb94aef219b0f8ec793739607b9db291
 ---
 {{CSSRef}}
 

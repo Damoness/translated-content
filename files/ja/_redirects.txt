@@ -4051,6 +4051,7 @@
 /ja/docs/Web/CSS/@media/scan	/ja/docs/orphaned/Web/CSS/@media/scan
 /ja/docs/Web/CSS/@page/bleed	/ja/docs/orphaned/Web/CSS/@page/bleed
 /ja/docs/Web/CSS/@page/marks	/ja/docs/orphaned/Web/CSS/@page/marks
+/ja/docs/Web/CSS/@scroll-timeline	/ja/docs/Web/CSS/scroll-timeline
 /ja/docs/Web/CSS/@viewport/height	/ja/docs/Web/CSS/@viewport
 /ja/docs/Web/CSS/@viewport/max-height	/ja/docs/Web/CSS/@viewport
 /ja/docs/Web/CSS/@viewport/max-zoom	/ja/docs/Web/CSS/@viewport
