@@ -15646,16 +15646,6 @@
       "uleming"
     ]
   },
-  "Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode": {
-    "modified": "2020-03-12T19:42:24.126Z",
-    "contributors": [
-      "almaceleste",
-      "coxdn",
-      "nakhodkiin",
-      "akmil",
-      "tselishev-semen"
-    ]
-  },
   "Web/JavaScript/Reference/Template_literals": {
     "modified": "2020-10-15T21:31:19.424Z",
     "contributors": [
@@ -17226,6 +17216,16 @@
   "conflicting/Web/JavaScript/Reference/Statements/switch": {
     "modified": "2020-10-15T21:54:01.294Z",
     "contributors": ["ekirpichyov", "AntonPtitsyn"]
+  },
+  "conflicting/Web/JavaScript/Reference/Strict_mode": {
+    "modified": "2020-03-12T19:42:24.126Z",
+    "contributors": [
+      "almaceleste",
+      "coxdn",
+      "nakhodkiin",
+      "akmil",
+      "tselishev-semen"
+    ]
   },
   "conflicting/Web/Manifest": {
     "modified": "2020-10-15T22:28:08.586Z",

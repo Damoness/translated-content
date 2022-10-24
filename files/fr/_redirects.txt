@@ -4972,7 +4972,7 @@
 /fr/docs/Web/JavaScript/Reference/Fonctions/Définition_de_méthode	/fr/docs/Web/JavaScript/Reference/Functions/Method_definitions
 /fr/docs/Web/JavaScript/Reference/Fonctions/Fonctions_fléchées	/fr/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 /fr/docs/Web/JavaScript/Reference/Fonctions/Strict_mode	/fr/docs/Web/JavaScript/Reference/Strict_mode
-/fr/docs/Web/JavaScript/Reference/Fonctions/Strict_mode/Passer_au_mode_strict	/fr/docs/Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode
+/fr/docs/Web/JavaScript/Reference/Fonctions/Strict_mode/Passer_au_mode_strict	/fr/docs/conflicting/Web/JavaScript/Reference/Strict_mode
 /fr/docs/Web/JavaScript/Reference/Fonctions/Valeurs_par_défaut_des_arguments	/fr/docs/Web/JavaScript/Reference/Functions/Default_parameters
 /fr/docs/Web/JavaScript/Reference/Fonctions/arguments	/fr/docs/Web/JavaScript/Reference/Functions/arguments
 /fr/docs/Web/JavaScript/Reference/Fonctions/arguments/@@iterator	/fr/docs/Web/JavaScript/Reference/Functions/arguments/@@iterator
@@ -4984,7 +4984,7 @@
 /fr/docs/Web/JavaScript/Reference/Fonctions_et_portee_des_fonctions	/fr/docs/Web/JavaScript/Reference/Functions
 /fr/docs/Web/JavaScript/Reference/Fonctions_et_portee_des_fonctions/Définition_de_méthode	/fr/docs/Web/JavaScript/Reference/Functions/Method_definitions
 /fr/docs/Web/JavaScript/Reference/Fonctions_et_portee_des_fonctions/Strict_mode	/fr/docs/Web/JavaScript/Reference/Strict_mode
-/fr/docs/Web/JavaScript/Reference/Fonctions_et_portee_des_fonctions/Strict_mode/Passer_au_mode_strict	/fr/docs/Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode
+/fr/docs/Web/JavaScript/Reference/Fonctions_et_portee_des_fonctions/Strict_mode/Passer_au_mode_strict	/fr/docs/conflicting/Web/JavaScript/Reference/Strict_mode
 /fr/docs/Web/JavaScript/Reference/Fonctions_et_portee_des_fonctions/arguments	/fr/docs/Web/JavaScript/Reference/Functions/arguments
 /fr/docs/Web/JavaScript/Reference/Fonctions_et_portee_des_fonctions/arguments/callee	/fr/docs/Web/JavaScript/Reference/Functions/arguments/callee
 /fr/docs/Web/JavaScript/Reference/Fonctions_et_portee_des_fonctions/arguments/length	/fr/docs/Web/JavaScript/Reference/Functions/arguments/length
@@ -5837,7 +5837,8 @@
 /fr/docs/Web/JavaScript/Reference/Opérateurs/yield*	/fr/docs/Web/JavaScript/Reference/Operators/yield*
 /fr/docs/Web/JavaScript/Reference/Reserved_Words	/fr/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
 /fr/docs/Web/JavaScript/Reference/Statements/import.meta	/fr/docs/Web/JavaScript/Reference/Operators/import.meta
-/fr/docs/Web/JavaScript/Reference/Strict_mode/Passer_au_mode_strict	/fr/docs/Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode
+/fr/docs/Web/JavaScript/Reference/Strict_mode/Passer_au_mode_strict	/fr/docs/conflicting/Web/JavaScript/Reference/Strict_mode
+/fr/docs/Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode	/fr/docs/conflicting/Web/JavaScript/Reference/Strict_mode
 /fr/docs/Web/JavaScript/Reference/Valeurs_par_défaut_des_arguments	/fr/docs/Web/JavaScript/Reference/Functions/Default_parameters
 /fr/docs/Web/JavaScript/Reference/Virgules_finales	/fr/docs/Web/JavaScript/Reference/Trailing_commas
 /fr/docs/Web/JavaScript/Reference/fonctions_fléchées	/fr/docs/Web/JavaScript/Reference/Functions/Arrow_functions

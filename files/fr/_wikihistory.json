@@ -26416,10 +26416,6 @@
       "Munto"
     ]
   },
-  "Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode": {
-    "modified": "2020-03-12T19:39:22.597Z",
-    "contributors": ["SphinxKnight", "Laurent_Lyaudet", "Bpruneau", "fscholz"]
-  },
   "Web/JavaScript/Reference/Template_literals": {
     "modified": "2020-10-15T21:31:15.226Z",
     "contributors": [
@@ -28167,6 +28163,10 @@
   "conflicting/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf": {
     "modified": "2019-04-08T13:06:24.098Z",
     "contributors": ["SphinxKnight", "MaloJaffre", "bbouvier"]
+  },
+  "conflicting/Web/JavaScript/Reference/Strict_mode": {
+    "modified": "2020-03-12T19:39:22.597Z",
+    "contributors": ["SphinxKnight", "Laurent_Lyaudet", "Bpruneau", "fscholz"]
   },
   "orphaned/Glossary/Bootstrap": {
     "modified": "2020-10-08T09:01:42.946Z",

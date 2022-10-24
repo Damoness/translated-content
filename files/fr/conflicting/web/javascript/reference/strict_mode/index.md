@@ -1,11 +1,11 @@
 ---
 title: Passer au mode strict
-slug: Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode
+slug: conflicting/Web/JavaScript/Reference/Strict_mode
 tags:
   - Avancé
   - JavaScript
 translation_of: Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode
-original_slug: Web/JavaScript/Reference/Strict_mode/Passer_au_mode_strict
+original_slug: Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode
 ---
 {{jsSidebar("More")}}
 
