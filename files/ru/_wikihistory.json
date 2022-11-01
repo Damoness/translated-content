@@ -8460,10 +8460,6 @@
     "modified": "2019-03-23T22:37:58.837Z",
     "contributors": ["andreww2012"]
   },
-  "Web/CSS/@viewport": {
-    "modified": "2020-05-13T06:10:35.795Z",
-    "contributors": ["mandalorian7117", "cvrebert"]
-  },
   "Web/CSS/Adjacent_sibling_combinator": {
     "modified": "2019-03-23T22:45:33.275Z",
     "contributors": [
@@ -15134,7 +15130,7 @@
     "modified": "2020-10-15T21:45:23.257Z",
     "contributors": ["synth", "BychekRU"]
   },
-  "Web/JavaScript/Reference/Operators/Nullish_coalescing_operator": {
+  "Web/JavaScript/Reference/Operators/Nullish_coalescing": {
     "modified": "2020-11-06T20:31:05.880Z",
     "contributors": ["qwerty.wasd.dev", "notacircle"]
   },
@@ -16824,6 +16820,10 @@
   "conflicting/Web/Accessibility": {
     "modified": "2019-03-23T22:57:21.133Z",
     "contributors": ["Aleksej"]
+  },
+  "conflicting/Web/CSS": {
+    "modified": "2020-05-13T06:10:35.795Z",
+    "contributors": ["mandalorian7117", "cvrebert"]
   },
   "conflicting/Web/CSS/:is": {
     "modified": "2019-03-23T22:39:12.816Z",
