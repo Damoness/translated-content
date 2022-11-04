@@ -1,7 +1,7 @@
 ---
 title: 古い反復子プロトコル
 slug: >-
-  Web/JavaScript/Reference/Deprecated_and_obsolete_features/The_legacy_Iterator_protocol
+  conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features_df783faa96fb2729e58461fd21615e98
 tags:
   - ES2015
   - ガイド
@@ -9,7 +9,10 @@ tags:
   - 古い反復子
 translation_of: >-
   Web/JavaScript/Reference/Deprecated_and_obsolete_features/The_legacy_Iterator_protocol
+original_slug: >-
+  Web/JavaScript/Reference/Deprecated_and_obsolete_features/The_legacy_Iterator_protocol
 ---
+
 {{jsSidebar("More")}}
 
 > **Warning:** 古い反復子プロトコルは SpiderMonkey 固有の機能で、 Firefox 58 で削除されました。将来に向けた使用では、 [for..of](/ja/docs/Web/JavaScript/Reference/Statements/for...of) ループと[反復処理プロトコル](/ja/docs/Web/JavaScript/Reference/Iteration_protocols)を使用することを検討してください。

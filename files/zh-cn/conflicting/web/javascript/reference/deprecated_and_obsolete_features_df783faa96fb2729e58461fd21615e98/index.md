@@ -1,8 +1,11 @@
 ---
 title: 原始迭代协议
 slug: >-
+  conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features_df783faa96fb2729e58461fd21615e98
+original_slug: >-
   Web/JavaScript/Reference/Deprecated_and_obsolete_features/The_legacy_Iterator_protocol
 ---
+
 {{jsSidebar("More")}}
 
 > **警告：** 非标准。旧式迭代器协议是一个特定于 SpiderMonkey 的功能，在 Firefox 58+ 中删除。对于面向未来的用法，请考虑使用 [for..of](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for...of) 循环与[迭代协议](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Iteration_protocols)。

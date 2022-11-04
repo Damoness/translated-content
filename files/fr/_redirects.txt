@@ -3119,6 +3119,7 @@
 /fr/docs/Mozilla/Add-ons/WebExtensions/API/devtools.panels/elements	/fr/docs/Mozilla/Add-ons/WebExtensions/API/devtools/panels/elements
 /fr/docs/Mozilla/Add-ons/WebExtensions/API/devtools.panels/onThemeChanged	/fr/docs/Mozilla/Add-ons/WebExtensions/API/devtools/panels/onThemeChanged
 /fr/docs/Mozilla/Add-ons/WebExtensions/API/devtools.panels/themeName	/fr/docs/Mozilla/Add-ons/WebExtensions/API/devtools/panels/themeName
+/fr/docs/Mozilla/Add-ons/WebExtensions/API/menus/createProperties	/fr/docs/conflicting/Mozilla/Add-ons/WebExtensions/API/menus/create
 /fr/docs/Mozilla/Add-ons/WebExtensions/API/menus/menus.overrideContext()	/fr/docs/Mozilla/Add-ons/WebExtensions/API/menus/overrideContext
 /fr/docs/Mozilla/Add-ons/WebExtensions/API/proxy/onProxyError	/fr/docs/Mozilla/Add-ons/WebExtensions/API/proxy/onError
 /fr/docs/Mozilla/Add-ons/WebExtensions/API/userScripts/RegisteredUserScript/RegisteredUserScript.unregister()	/fr/docs/Mozilla/Add-ons/WebExtensions/API/userScripts/RegisteredUserScript/unregister
@@ -4866,7 +4867,7 @@
 /fr/docs/Web/JavaScript/Guide/JavaScript_Overview	/fr/docs/Web/JavaScript/Guide/Introduction
 /fr/docs/Web/JavaScript/Guide/Le_modèle_objet_JavaScript_en_détails	/fr/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 /fr/docs/Web/JavaScript/Guide/Le_protocole_iterator	/fr/docs/Web/JavaScript/Reference/Iteration_protocols
-/fr/docs/Web/JavaScript/Guide/Le_protocole_itérateur_historique	/fr/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features/The_legacy_Iterator_protocol
+/fr/docs/Web/JavaScript/Guide/Le_protocole_itérateur_historique	/fr/docs/conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features_df783faa96fb2729e58461fd21615e98
 /fr/docs/Web/JavaScript/Guide/Métaprogrammation	/fr/docs/Web/JavaScript/Guide/Meta_programming
 /fr/docs/Web/JavaScript/Guide/Nombres_et_dates	/fr/docs/Web/JavaScript/Guide/Numbers_and_dates
 /fr/docs/Web/JavaScript/Guide/Objets_élémentaires_JavaScript	/fr/docs/Web/JavaScript/Guide
@@ -4890,6 +4891,7 @@
 /fr/docs/Web/JavaScript/Reference/A_propos	/fr/docs/Web/JavaScript/Reference/About
 /fr/docs/Web/JavaScript/Reference/Classes/Class_fields	/fr/docs/Web/JavaScript/Reference/Classes/Public_class_fields
 /fr/docs/Web/JavaScript/Reference/Commentaires	/fr/docs/Web/JavaScript/Reference/Lexical_grammar#Commentaires
+/fr/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features/The_legacy_Iterator_protocol	/fr/docs/conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features_df783faa96fb2729e58461fd21615e98
 /fr/docs/Web/JavaScript/Reference/Erreurs	/fr/docs/Web/JavaScript/Reference/Errors
 /fr/docs/Web/JavaScript/Reference/Erreurs/Already_has_pragma	/fr/docs/Web/JavaScript/Reference/Errors/Already_has_pragma
 /fr/docs/Web/JavaScript/Reference/Erreurs/Array_sort_argument	/fr/docs/Web/JavaScript/Reference/Errors/Array_sort_argument

@@ -4725,10 +4725,6 @@
     "modified": "2020-10-15T22:04:43.381Z",
     "contributors": ["hellosct1"]
   },
-  "Mozilla/Add-ons/WebExtensions/API/menus/createProperties": {
-    "modified": "2020-10-15T22:30:24.941Z",
-    "contributors": ["hellosct1"]
-  },
   "Mozilla/Add-ons/WebExtensions/API/menus/getTargetElement": {
     "modified": "2020-10-15T22:08:42.353Z",
     "contributors": ["hellosct1", "wbamberg"]
@@ -22467,10 +22463,6 @@
       "matteodelabre"
     ]
   },
-  "Web/JavaScript/Reference/Deprecated_and_obsolete_features/The_legacy_Iterator_protocol": {
-    "modified": "2020-03-12T19:40:23.053Z",
-    "contributors": ["SphinxKnight"]
-  },
   "Web/JavaScript/Reference/Errors": {
     "modified": "2020-03-12T19:43:16.869Z",
     "contributors": ["SphinxKnight"]
@@ -28100,6 +28092,10 @@
     "modified": "2020-09-30T15:29:18.597Z",
     "contributors": ["chrisdavidmills", "tristantheb"]
   },
+  "conflicting/Mozilla/Add-ons/WebExtensions/API/menus/create": {
+    "modified": "2020-10-15T22:30:24.941Z",
+    "contributors": ["hellosct1"]
+  },
   "conflicting/Web/API/Blob": {
     "modified": "2020-10-15T22:05:47.307Z",
     "contributors": ["velkro", "jgroc-de"]
@@ -28158,6 +28154,10 @@
   },
   "conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features": {
     "modified": "2020-10-15T21:30:46.863Z",
+    "contributors": ["SphinxKnight"]
+  },
+  "conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features_df783faa96fb2729e58461fd21615e98": {
+    "modified": "2020-03-12T19:40:23.053Z",
     "contributors": ["SphinxKnight"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf": {
