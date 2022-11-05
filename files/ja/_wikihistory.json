@@ -20889,10 +20889,6 @@
     "modified": "2019-04-16T23:59:54.980Z",
     "contributors": ["Uemmra3", "Wind1808"]
   },
-  "Web/Guide/Mobile/Separate_sites": {
-    "modified": "2019-04-17T00:04:34.176Z",
-    "contributors": ["Uemmra3", "Wind1808"]
-  },
   "Web/Guide/Parsing_and_serializing_XML": {
     "modified": "2020-09-14T07:46:26.734Z",
     "contributors": ["Marsf", "mfuji09", "silverskyvicto", "kmaglione", "Shoot"]
@@ -31680,6 +31676,10 @@
   "conflicting/Web/Manifest_e8c4835b067e177a000dc29c18483205": {
     "modified": "2020-10-15T22:29:07.852Z",
     "contributors": ["mfuji09"]
+  },
+  "conflicting/Web/Progressive_web_apps": {
+    "modified": "2019-04-17T00:04:34.176Z",
+    "contributors": ["Uemmra3", "Wind1808"]
   },
   "conflicting/Web/SVG/Element/animate": {
     "modified": "2020-10-15T21:27:02.463Z",
