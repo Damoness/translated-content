@@ -1230,8 +1230,8 @@
 /fr/docs/Extension_Firefox_Checky_(externe)	https://addons.mozilla.org/extensions/moreinfo.php?id=165
 /fr/docs/Extension_Firefox_EditCSS_(externe)	https://addons.mozilla.org/extensions/moreinfo.php?id=179
 /fr/docs/FAQ_sur_le_préchargement_des_liens	/fr/docs/Web/HTTP/Link_prefetching_FAQ
-/fr/docs/FAQ_sur_les_transformations_XLS_dans_Mozilla	/fr/docs/Web/API/XSLTProcessor/XSL_Transformations_in_Mozilla_FAQ
-/fr/docs/FAQ_sur_les_transformations_XSL_dans_Mozilla	/fr/docs/Web/API/XSLTProcessor/XSL_Transformations_in_Mozilla_FAQ
+/fr/docs/FAQ_sur_les_transformations_XLS_dans_Mozilla	/fr/docs/conflicting/Web/API/XSLTProcessor
+/fr/docs/FAQ_sur_les_transformations_XSL_dans_Mozilla	/fr/docs/conflicting/Web/API/XSLTProcessor
 /fr/docs/FUEL/Window/devicemotion_event	/fr/docs/Web/API/Window/devicemotion_event
 /fr/docs/FUEL/Window/deviceorientation	/fr/docs/Web/API/Window/deviceorientation_event
 /fr/docs/Feuilles_de_style_alternatives	/fr/docs/Web/CSS/Alternative_style_sheets
@@ -4091,6 +4091,7 @@
 /fr/docs/Web/API/XMLHttpRequest/Utiliser_XMLHttpRequest	/fr/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
 /fr/docs/Web/API/XMLHttpRequest/onreadystatechange	/fr/docs/Web/API/XMLHttpRequest/readystatechange_event
 /fr/docs/Web/API/XMLHttpRequestEventTarget/onload	/fr/docs/Web/API/XMLHttpRequest/load_event
+/fr/docs/Web/API/XSLTProcessor/XSL_Transformations_in_Mozilla_FAQ	/fr/docs/conflicting/Web/API/XSLTProcessor
 /fr/docs/Web/API/console.log	/fr/docs/Web/API/Console/log
 /fr/docs/Web/API/console.time	/fr/docs/Web/API/Console/time
 /fr/docs/Web/API/console.timeEnd	/fr/docs/Web/API/Console/timeEnd
@@ -6372,7 +6373,6 @@
 /fr/docs/conflicting/Web/API/Window/online_event	/fr/docs/Web/API/Window/online_event
 /fr/docs/conflicting/Web/API/Window/popstate_event	/fr/docs/Web/API/Window/popstate_event
 /fr/docs/conflicting/Web/API/Window/unload_event	/fr/docs/Web/API/Window/unload_event
-/fr/docs/conflicting/Web/API/XSLTProcessor	/fr/docs/Web/API/XSLTProcessor
 /fr/docs/conflicting/Web/API/XSLTProcessor_197eea6e529b0a946d29ce7cc292e7ef	/fr/docs/Web/API/XSLTProcessor
 /fr/docs/conflicting/Web/API/btoa	/fr/docs/Web/API/btoa
 /fr/docs/conflicting/Web/API_dd04ca1265cb79b990b8120e5f5070d3	/fr/docs/Web/API
