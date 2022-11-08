@@ -1,13 +1,14 @@
 ---
 title: Kuma, la plateforme soutenant le wiki MDN
-slug: MDN/Yari
+slug: orphaned/MDN/Yari
 tags:
   - Kuma
   - Kuma script
   - MDN Meta
 translation_of: MDN/Kuma
-original_slug: MDN/Kuma
+original_slug: MDN/Yari
 ---
+
 {{MDNSidebar}}
 
 Kuma est le code Django qui alimente le MDN Web Docs.

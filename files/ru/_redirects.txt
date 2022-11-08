@@ -298,10 +298,11 @@
 /ru/docs/MDN/Feedback	/ru/docs/MDN/Community
 /ru/docs/MDN/Getting_started	/ru/docs/MDN/Community/Contributing/Getting_started
 /ru/docs/MDN/Guidelines	/ru/docs/conflicting/MDN/Writing_guidelines
-/ru/docs/MDN/Kuma	/ru/docs/MDN/Yari
+/ru/docs/MDN/Kuma	/ru/docs/orphaned/MDN/Yari
 /ru/docs/MDN/Kuma/Troubleshooting_KumaScript_errors	/ru/docs/MDN/Tools/KumaScript/Troubleshooting
 /ru/docs/MDN/Structures	/ru/docs/MDN/Writing_guidelines/Page_structures
 /ru/docs/MDN/Tools/URL-suffix	/ru/docs/MDN/Tools/Unsupported_GET_API
+/ru/docs/MDN/Yari	/ru/docs/orphaned/MDN/Yari
 /ru/docs/MDN_at_ten	/ru/docs/MDN/At_ten
 /ru/docs/Mozilla/Add-ons/WebExtensions/Интернационализация	/ru/docs/Mozilla/Add-ons/WebExtensions/Internationalization
 /ru/docs/Mozilla/Add-ons/WebExtensions/модификация_веб_страницы	/ru/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page

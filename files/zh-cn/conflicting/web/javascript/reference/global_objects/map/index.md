@@ -1,8 +1,9 @@
 ---
 title: Map.prototype[@@toStringTag]
-slug: Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag
+slug: conflicting/Web/JavaScript/Reference/Global_Objects/Map
 original_slug: Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag
 ---
+
 {{JSRef}}
 
 **`Map[@@toStringTag]`** 的初始值是"Map".

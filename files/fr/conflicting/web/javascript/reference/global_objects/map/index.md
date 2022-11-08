@@ -1,6 +1,6 @@
 ---
 title: Map.prototype[@@toStringTag]()
-slug: Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag
+slug: conflicting/Web/JavaScript/Reference/Global_Objects/Map
 tags:
   - ECMAScript 2015
   - JavaScript
@@ -11,6 +11,7 @@ tags:
 translation_of: Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag
 original_slug: Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag
 ---
+
 {{JSRef}}
 
 La propriété **`Map[@@toStringTag]`** vaut "Map" initialement.

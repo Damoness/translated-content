@@ -1,6 +1,6 @@
 ---
 title: Map.prototype[@@toStringTag]
-slug: Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag
+slug: conflicting/Web/JavaScript/Reference/Global_Objects/Map
 tags:
   - ECMAScript 2015
   - JavaScript
@@ -8,8 +8,10 @@ tags:
   - Property
   - Prototype
   - Reference
+original_slug: Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag
 browser-compat: javascript.builtins.Map.@@toStringTag
 ---
+
 {{JSRef}}
 
 A propriedade **`Map[@@toStringTag]`** tem o valor inicial do `Map`.

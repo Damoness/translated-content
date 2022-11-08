@@ -1,8 +1,10 @@
 ---
 title: Intl[@@toStringTag]
-slug: Web/JavaScript/Reference/Global_Objects/Intl/@@toStringTag
+slug: conflicting/Web/JavaScript/Reference/Global_Objects/Intl
+original_slug: Web/JavaScript/Reference/Global_Objects/Intl/@@toStringTag
 browser-compat: javascript.builtins.Intl.@@toStringTag
 ---
+
 {{JSRef}}
 
 La propriété **`Intl[@@toStringTag]`** vaut initialement "Intl".
