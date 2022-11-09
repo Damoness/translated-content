@@ -3285,10 +3285,6 @@
     "modified": "2019-07-08T19:30:04.842Z",
     "contributors": ["fuggy", "wbamberg", "MariyaSka", "cpigat"]
   },
-  "MDN/Tools/Unsupported_GET_API": {
-    "modified": "2020-11-05T06:23:08.678Z",
-    "contributors": ["ksam"]
-  },
   "MDN/Writing_guidelines": {
     "modified": "2020-09-09T11:16:44.121Z",
     "contributors": [
@@ -16577,6 +16573,10 @@
       "superpuper32",
       "GennadyGlushenkov"
     ]
+  },
+  "conflicting/MDN": {
+    "modified": "2020-11-05T06:23:08.678Z",
+    "contributors": ["ksam"]
   },
   "conflicting/MDN/Contribute": {
     "modified": "2020-10-30T09:21:05.942Z",
