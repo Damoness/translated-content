@@ -1,6 +1,6 @@
 ---
 title: DataTransfer.mozClearDataAt()
-slug: Web/API/DataTransfer/mozClearDataAt
+slug: orphaned/Web/API/DataTransfer/mozClearDataAt
 page-type: web-api-instance-method
 tags:
   - API
@@ -9,8 +9,10 @@ tags:
   - Reference
   - drag and drop
   - Deprecated
+original_slug: Web/API/DataTransfer/mozClearDataAt
 browser-compat: api.DataTransfer.mozClearDataAt
 ---
+
 {{APIRef("HTML Drag and Drop API")}}
 
 {{ Non-standard_header() }}{{deprecated_header}}

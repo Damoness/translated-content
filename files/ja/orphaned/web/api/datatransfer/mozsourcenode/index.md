@@ -1,6 +1,6 @@
 ---
 title: DataTransfer.mozSourceNode
-slug: Web/API/DataTransfer/mozSourceNode
+slug: orphaned/Web/API/DataTransfer/mozSourceNode
 page-type: web-api-instance-property
 tags:
   - API
@@ -8,9 +8,11 @@ tags:
   - Property
   - Reference
   - drag and drop
-browser-compat: api.DataTransfer.mozSourceNode
 translation_of: Web/API/DataTransfer/mozSourceNode
+original_slug: Web/API/DataTransfer/mozSourceNode
+browser-compat: api.DataTransfer.mozSourceNode
 ---
+
 {{APIRef("HTML Drag and Drop API")}}
 
 {{ Non-standard_header() }}

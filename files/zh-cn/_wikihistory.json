@@ -10425,10 +10425,6 @@
     "modified": "2019-12-23T04:36:06.230Z",
     "contributors": ["Sherr_Y", "suvyme"]
   },
-  "Web/API/HTML_Drag_and_Drop_API/Multiple_items": {
-    "modified": "2020-10-21T09:56:11.699Z",
-    "contributors": ["Oliverz"]
-  },
   "Web/API/HTML_Drag_and_Drop_API/Recommended_drag_types": {
     "modified": "2019-03-23T22:11:24.812Z",
     "contributors": ["plter", "xgqfrms-GitHub"]
@@ -35522,6 +35518,10 @@
   "orphaned/Web/API/HTMLOrForeignElement/tabIndex": {
     "modified": "2019-03-24T00:16:26.046Z",
     "contributors": ["teoli", "Hasilt", "sleepholic", "ziyunfei"]
+  },
+  "orphaned/Web/API/HTML_Drag_and_Drop_API/Multiple_items": {
+    "modified": "2020-10-21T09:56:11.699Z",
+    "contributors": ["Oliverz"]
   },
   "orphaned/Web/API/IDBCursorSync": {
     "modified": "2019-03-18T21:28:52.330Z",
