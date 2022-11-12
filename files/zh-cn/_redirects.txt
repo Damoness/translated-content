@@ -536,6 +536,7 @@
 /zh-CN/docs/Glossary/DHTML	/zh-CN/docs/orphaned/Glossary/DHTML
 /zh-CN/docs/Glossary/Dynamic_programming_language	/zh-CN/docs/orphaned/Glossary/Dynamic_programming_language
 /zh-CN/docs/Glossary/Empty_element	/zh-CN/docs/Glossary/Void_element
+/zh-CN/docs/Glossary/Grid_Rows	/zh-CN/docs/Glossary/Grid_Row
 /zh-CN/docs/Glossary/Header	/zh-CN/docs/Glossary/HTTP_header
 /zh-CN/docs/Glossary/IP地址	/zh-CN/docs/Glossary/IP_Address
 /zh-CN/docs/Glossary/Serialize	/zh-CN/docs/Glossary/Serialization

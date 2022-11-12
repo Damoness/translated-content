@@ -1887,6 +1887,7 @@
 /ja/docs/Glossary/Empty_element	/ja/docs/Glossary/Void_element
 /ja/docs/Glossary/GIJ	/ja/docs/orphaned/Glossary/GIJ
 /ja/docs/Glossary/Global_attribute	/ja/docs/Web/HTML/Global_attributes
+/ja/docs/Glossary/Grid_Rows	/ja/docs/Glossary/Grid_Row
 /ja/docs/Glossary/Header	/ja/docs/Glossary/HTTP_header
 /ja/docs/Glossary/Index	/ja/docs/Glossary
 /ja/docs/Glossary/POP3	/ja/docs/Glossary/POP
