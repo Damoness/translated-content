@@ -1,6 +1,6 @@
 ---
 title: Class static initialization blocks
-slug: Web/JavaScript/Reference/Classes/Class_static_initialization_blocks
+slug: Web/JavaScript/Reference/Classes/Static_initialization_blocks
 tags:
   - Classes
   - ECMAScript 2022
@@ -9,8 +9,10 @@ tags:
   - Static
   - Reference
   - Initialization
+original_slug: Web/JavaScript/Reference/Classes/Class_static_initialization_blocks
 browser-compat: javascript.classes.class_static_initialization_blocks
 ---
+
 {{jsSidebar("Classes")}}
 
 **Class static initialization blocks** are a special feature of a {{jsxref("Statements/class", "class")}} that enable more flexible initialization of {{jsxref("Classes/static", "static")}} properties than can be achieved using per-field initialization.
