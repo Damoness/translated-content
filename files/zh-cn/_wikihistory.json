@@ -32891,10 +32891,6 @@
       "disoul"
     ]
   },
-  "WebAssembly/Caching_modules": {
-    "modified": "2019-03-25T04:00:16.303Z",
-    "contributors": ["Seasonley", "rui-space", "kingysu"]
-  },
   "WebAssembly/Concepts": {
     "modified": "2019-03-18T20:54:48.847Z",
     "contributors": ["xiongcong", "rui-space", "ziyunfei", "kingysu"]
@@ -36329,6 +36325,10 @@
   "orphaned/Web/Web_Components/Status_in_Firefox": {
     "modified": "2019-03-23T22:21:10.569Z",
     "contributors": ["mx601595686"]
+  },
+  "orphaned/WebAssembly/Caching_modules": {
+    "modified": "2019-03-25T04:00:16.303Z",
+    "contributors": ["Seasonley", "rui-space", "kingysu"]
   },
   "orphaned/learn/Server-side/Express_Nodejs/Installing_on_PWS_Cloud_Foundry": {
     "modified": "2020-09-24T11:45:05.090Z",
