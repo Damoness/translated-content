@@ -1807,6 +1807,10 @@
     "modified": "2019-03-18T21:30:27.262Z",
     "contributors": ["hamasaki", "Uemmra3", "asuktakahashi"]
   },
+  "Glossary/Unix_time": {
+    "modified": "2020-07-25T11:27:03.782Z",
+    "contributors": ["mfuji09", "Marsf", "ethertank"]
+  },
   "Glossary/Usenet": {
     "modified": "2020-08-05T14:05:35.748Z",
     "contributors": ["eltociear"]
@@ -6808,10 +6812,6 @@
   "Web/API/DOMStringMap": {
     "modified": "2020-10-15T21:36:48.446Z",
     "contributors": ["mfuji09", "wbamberg", "Kenju"]
-  },
-  "Web/API/DOMTimeStamp": {
-    "modified": "2020-07-25T11:27:03.782Z",
-    "contributors": ["mfuji09", "Marsf", "ethertank"]
   },
   "Web/API/DOMTokenList": {
     "modified": "2020-10-15T22:03:34.048Z",
