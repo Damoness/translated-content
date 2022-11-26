@@ -1,9 +1,10 @@
 ---
 title: Communication de pair-à-pair avec WebRTC
-slug: Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC
+slug: conflicting/Web/API/WebRTC_API
 translation_of: Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC
-original_slug: WebRTC/communication-de-pair-a-pair-avec-WebRTC
+original_slug: Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC
 ---
+
 {{SeeCompatTable}}
 
 Les APIs WebRTC sont conçues pour permettre aux applications JavaScript de créer des connexions en temps-réel, avec des canaux audio, vidéo et/ou de données, entre utilisateurs à travers leurs navigateurs ou avec des serveurs supportant le protocole WebRTC. Il autorise aussi `navigator.mozGetUserMedia()` à accéder au microphone et à la webcam (`getUserMedia()` est en cours de standardisation par le groupe Media Capture Task, avec les APIs Recording).
