@@ -1,9 +1,11 @@
 ---
 title: Intl.Segments
-slug: Web/JavaScript/Reference/Global_Objects/Intl/Segments
+slug: Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments
 translation_of: Web/JavaScript/Reference/Global_Objects/Intl/Segments
+original_slug: Web/JavaScript/Reference/Global_Objects/Intl/Segments
 browser-compat: javascript.builtins.Intl.Segments
 ---
+
 {{JSRef}}
 
 Une instance **`Intl.Segments`** est une collection itérable des segments d'une chaîne de caractères. On obtient un tel objet en appelant la méthode [`segment()`](/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment) d'un objet [`Intl.Segmenter`](/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter).

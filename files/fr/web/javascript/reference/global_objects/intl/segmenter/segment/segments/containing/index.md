@@ -1,9 +1,12 @@
 ---
 title: Intl.Segments.prototype.containing()
-slug: Web/JavaScript/Reference/Global_Objects/Intl/Segments/containing
+slug: >-
+  Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments/containing
 translation_of: Web/JavaScript/Reference/Global_Objects/Intl/Segments/containing
+original_slug: Web/JavaScript/Reference/Global_Objects/Intl/Segments/containing
 browser-compat: javascript.builtins.Intl.Segments.containing
 ---
+
 {{JSRef}}
 
 La méthode **`Intl.Segments.containing()`** renvoie un objet décrivant le segment de la chaîne de caractères contenant le codet situé à l'indice passé en argument.

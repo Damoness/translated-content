@@ -5012,6 +5012,9 @@
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Function/prototype	/fr/docs/Web/JavaScript/Reference/Global_Objects/Function
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Function/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Function/toString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/@@toStringTag	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Intl
+/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segments	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments
+/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segments/@@iterator	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments/@@iterator
+/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segments/containing	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments/containing
 /fr/docs/Web/JavaScript/Reference/Global_Objects/ListFormat	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/ListFormat
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Map
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Number/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Number/toString
