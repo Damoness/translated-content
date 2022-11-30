@@ -22011,23 +22011,6 @@
       "Mario"
     ]
   },
-  "Web/JavaScript/About_JavaScript": {
-    "modified": "2020-03-12T19:36:54.184Z",
-    "contributors": [
-      "SphinxKnight",
-      "Dralyab",
-      "Gasperowicz",
-      "tregagnon",
-      "teoli",
-      "Jeremie",
-      "Delapouite",
-      "fscholz",
-      "Mgjbot",
-      "BenoitL",
-      "Extra-Nitro",
-      "VincentN"
-    ]
-  },
   "Web/JavaScript/Closures": {
     "modified": "2020-03-14T03:08:28.899Z",
     "contributors": [
@@ -22398,10 +22381,6 @@
       "Mortys",
       "matteodelabre"
     ]
-  },
-  "Web/JavaScript/Reference/About": {
-    "modified": "2020-03-12T19:38:26.136Z",
-    "contributors": ["SphinxKnight", "teoli", "pchantry", "Goofy"]
   },
   "Web/JavaScript/Reference/Classes": {
     "modified": "2020-10-15T21:33:49.394Z",
@@ -28137,6 +28116,23 @@
     "modified": "2020-11-05T08:46:21.988Z",
     "contributors": ["JNa0"]
   },
+  "conflicting/Web/JavaScript": {
+    "modified": "2020-03-12T19:36:54.184Z",
+    "contributors": [
+      "SphinxKnight",
+      "Dralyab",
+      "Gasperowicz",
+      "tregagnon",
+      "teoli",
+      "Jeremie",
+      "Delapouite",
+      "fscholz",
+      "Mgjbot",
+      "BenoitL",
+      "Extra-Nitro",
+      "VincentN"
+    ]
+  },
   "conflicting/Web/JavaScript/JavaScript_technologies_overview": {
     "modified": "2020-03-12T19:35:39.467Z",
     "contributors": [
@@ -28147,6 +28143,10 @@
       "ziyunfei",
       "julienw"
     ]
+  },
+  "conflicting/Web/JavaScript/Reference": {
+    "modified": "2020-03-12T19:38:26.136Z",
+    "contributors": ["SphinxKnight", "teoli", "pchantry", "Goofy"]
   },
   "conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features": {
     "modified": "2020-10-15T21:30:46.863Z",

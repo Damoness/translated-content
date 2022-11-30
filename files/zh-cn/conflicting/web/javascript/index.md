@@ -1,7 +1,9 @@
 ---
 title: 关于 JavaScript
-slug: Web/JavaScript/About_JavaScript
+slug: conflicting/Web/JavaScript
+original_slug: Web/JavaScript/About_JavaScript
 ---
+
 {{JsSidebar()}}
 
 ## 什么是 JavaScript?

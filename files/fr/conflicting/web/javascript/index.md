@@ -1,13 +1,14 @@
 ---
 title: À propos de JavaScript
-slug: Web/JavaScript/About_JavaScript
+slug: conflicting/Web/JavaScript
 tags:
   - Débutant
   - Intro
   - JavaScript
 translation_of: Web/JavaScript/About_JavaScript
-original_slug: Web/JavaScript/A_propos
+original_slug: Web/JavaScript/About_JavaScript
 ---
+
 {{jsSidebar}}
 
 ## Qu'est-ce que JavaScript ?

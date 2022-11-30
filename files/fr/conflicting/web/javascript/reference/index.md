@@ -1,12 +1,13 @@
 ---
 title: À propos de cette référence
-slug: Web/JavaScript/Reference/About
+slug: conflicting/Web/JavaScript/Reference
 tags:
   - JavaScript
   - Reference
 translation_of: Web/JavaScript/Reference/About
-original_slug: Web/JavaScript/Reference/A_propos
+original_slug: Web/JavaScript/Reference/About
 ---
+
 {{JsSidebar}}
 
 La référence JavaScript regroupe les différentes notions autour du langage JavaScript. L'ensemble du langage y est détaillé. Si vous développez une application JavaScript, vous pourrez utiliser ces différentes pages (d'où le titre de « référence »). Si vous apprenez JavaScript ou que vous souhaitez comprendre comment fonctionnent certains de ses composants, vous pouvez lire le [Guide JavaScript](/fr/docs/Web/JavaScript/Guide).

@@ -11642,10 +11642,6 @@
       "Knyaz Vladimir"
     ]
   },
-  "Web/JavaScript/About_JavaScript": {
-    "modified": "2020-03-12T19:40:51.750Z",
-    "contributors": ["BychekRU", "IgorGilyazov"]
-  },
   "Web/JavaScript/Closures": {
     "modified": "2020-11-13T09:42:08.066Z",
     "contributors": [
@@ -12155,10 +12151,6 @@
   "Web/JavaScript/Reference": {
     "modified": "2020-03-12T19:36:05.593Z",
     "contributors": ["Aleksej", "Mingun", "teoli", "Ladislas", "pashak"]
-  },
-  "Web/JavaScript/Reference/About": {
-    "modified": "2020-03-12T19:43:40.535Z",
-    "contributors": ["Sergey1"]
   },
   "Web/JavaScript/Reference/Classes": {
     "modified": "2020-11-02T03:27:06.842Z",
@@ -16903,6 +16895,10 @@
     "modified": "2019-03-18T21:41:50.347Z",
     "contributors": ["gadjetron"]
   },
+  "conflicting/Web/JavaScript": {
+    "modified": "2020-03-12T19:40:51.750Z",
+    "contributors": ["BychekRU", "IgorGilyazov"]
+  },
   "conflicting/Web/JavaScript/Guide": {
     "modified": "2019-03-23T23:06:22.825Z",
     "contributors": ["wbamberg", "warsan", "AlexChuev", "razarusu"]
@@ -16967,6 +16963,10 @@
       "teoli",
       "Millionnaire"
     ]
+  },
+  "conflicting/Web/JavaScript/Reference": {
+    "modified": "2020-03-12T19:43:40.535Z",
+    "contributors": ["Sergey1"]
   },
   "conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features": {
     "modified": "2019-03-23T22:45:00.856Z",
