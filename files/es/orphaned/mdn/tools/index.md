@@ -1,13 +1,15 @@
 ---
 title: Herramientas de MDN y Utilidades
-slug: MDN/Tools
+slug: orphaned/MDN/Tools
 tags:
   - Documentacion(2)
   - Documentación
   - MDN
   - Proyecto MDC
 translation_of: MDN/Tools
+original_slug: MDN/Tools
 ---
+
 {{MDNSidebar}}
 
 ## Documentación sobre las herramientas de MDN

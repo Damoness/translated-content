@@ -1,6 +1,6 @@
 ---
 title: KumaScript エラーのトラブルシューティング
-slug: MDN/Tools/KumaScript/Troubleshooting
+slug: orphaned/MDN/Tools/KumaScript/Troubleshooting
 tags:
   - Errors
   - Guide
@@ -8,7 +8,9 @@ tags:
   - MDN Meta
   - Tools
 translation_of: MDN/Tools/KumaScript/Troubleshooting
+original_slug: MDN/Tools/KumaScript/Troubleshooting
 ---
+
 {{MDNSidebar}}
 
 この記事では4種類の KumaScript エラーと、修正するための対策について詳しく見ます。

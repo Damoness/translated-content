@@ -1,9 +1,10 @@
 ---
 title: Introducción a KumaScript
-slug: MDN/Tools/KumaScript
+slug: orphaned/MDN/Tools/KumaScript
 translation_of: MDN/Tools/KumaScript
-original_slug: MDN/Tools/Introduction_to_KumaScript
+original_slug: MDN/Tools/KumaScript
 ---
+
 {{MDNSidebar}}
 
 ## Vistazo general
@@ -76,7 +77,7 @@ Nota que el estilo de este parámetro es muy complejo. Se debe adherir exactamen
 
 #### Cómo escribir "\\{\\{"
 
-Como la secuencia de caracteres "`\{\{`" se usa para indicar el comienzo de una macro, puede ser un problema si justo quieres usar "`\{\{`" and "`\}\}`" como texto de una página. Probablemente dará un mensaje de error `DocumentParsingError`. 
+Como la secuencia de caracteres "`\{\{`" se usa para indicar el comienzo de una macro, puede ser un problema si justo quieres usar "`\{\{`" and "`\}\}`" como texto de una página. Probablemente dará un mensaje de error `DocumentParsingError`.
 
 En este caso, puedes escapar la primer llave con una barra invertida, así: `\\{{`
 
@@ -562,7 +563,7 @@ Carriage returns added here and there for clarity.
 <span class="lang lang-ja" lang="ja">DOM Level 0。どの標準にも属しません。 </span>
 <span class="lang lang-pl" lang="pl">DOM Level 0. Nie jest częścią żadnego standardu. </span>
 <span class="lang lang-zh-cn" lang="zh-cn">DOM Level 0 不属于任何标准.</span></p>
- 
+
 // After: Kumascript version
 <% if ("fr" == env.locale) { %>
 <p>DOM Level 0. Ne fait partie d'aucune spécification.</p>
@@ -583,7 +584,7 @@ Carriage returns added here and there for clarity.
 // From ReleaseChannelInfo() template
 // Before:
 web.html("<p>Firefox " + $0 + ", based on Gecko " + $1 + ", will ship in " + $2 + ". This article provides information about the changes in this release that will affect developers. Nightly builds of what will become Firefox " + $0 + " are " + web.link(url, "currently available") + " on the " + string.ToUpperFirst($3) + " channel.</p>");
- 
+
 // After:
 <p>Firefox <%= $0 %>, based on Gecko <%= $1 %>, will ship in <%= $2 %>. This
  article provides information about the changes in this release that will
