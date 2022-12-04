@@ -3265,10 +3265,6 @@
       "Mars"
     ]
   },
-  "MDN/Contribute/Howto": {
-    "modified": "2019-01-16T19:24:18.760Z",
-    "contributors": ["wbamberg", "Devengineer", "uleming"]
-  },
   "MDN/Contribute/Processes": {
     "modified": "2019-01-17T00:00:52.853Z",
     "contributors": ["wbamberg", "warsan"]
@@ -16563,8 +16559,8 @@
     "contributors": ["ksam"]
   },
   "conflicting/MDN/Contribute": {
-    "modified": "2020-10-30T09:21:05.942Z",
-    "contributors": ["ksam", "jswisher", "Valenchak"]
+    "modified": "2019-01-16T19:24:18.760Z",
+    "contributors": ["wbamberg", "Devengineer", "uleming"]
   },
   "conflicting/MDN/Tools": {
     "modified": "2019-01-16T19:44:47.259Z",

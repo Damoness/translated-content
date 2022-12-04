@@ -1697,17 +1697,6 @@
     "modified": "2019-01-16T19:13:18.509Z",
     "contributors": ["wbamberg", "zziuni", "hoony", "Junny", "Sheppy"]
   },
-  "MDN/Contribute/Howto": {
-    "modified": "2019-01-16T19:13:26.954Z",
-    "contributors": [
-      "wbamberg",
-      "zziuni",
-      "Netaras",
-      "Junbong",
-      "KwanHong_Lee66",
-      "Sheppy"
-    ]
-  },
   "MDN/Contribute/Processes": {
     "modified": "2019-01-17T02:54:48.050Z",
     "contributors": ["wbamberg", "zziuni"]
@@ -11033,6 +11022,17 @@
   "conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript": {
     "modified": "2020-07-16T22:32:06.697Z",
     "contributors": ["alattalatta", "beowolf9", "lunarlit", "dsma73"]
+  },
+  "conflicting/MDN/Contribute": {
+    "modified": "2019-01-16T19:13:26.954Z",
+    "contributors": [
+      "wbamberg",
+      "zziuni",
+      "Netaras",
+      "Junbong",
+      "KwanHong_Lee66",
+      "Sheppy"
+    ]
   },
   "conflicting/MDN/Tools": {
     "modified": "2019-01-16T20:50:22.654Z",

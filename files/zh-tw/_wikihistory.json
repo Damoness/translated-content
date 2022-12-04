@@ -1411,10 +1411,6 @@
       "emmanuelodenyire"
     ]
   },
-  "MDN/Contribute/Howto": {
-    "modified": "2019-01-16T20:46:52.062Z",
-    "contributors": ["wbamberg", "ArvinH", "klez"]
-  },
   "MDN/Writing_guidelines": {
     "modified": "2019-09-10T08:57:06.612Z",
     "contributors": [
@@ -5094,6 +5090,10 @@
   "conflicting/Learn/Server-side/Django": {
     "modified": "2019-03-23T23:33:19.493Z",
     "contributors": ["garylai1990"]
+  },
+  "conflicting/MDN/Contribute": {
+    "modified": "2019-01-16T20:46:52.062Z",
+    "contributors": ["wbamberg", "ArvinH", "klez"]
   },
   "conflicting/MDN/Writing_guidelines": {
     "modified": "2020-09-30T15:33:00.096Z",

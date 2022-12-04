@@ -340,6 +340,7 @@
 /ko/docs/MDN/Contribute/Getting_started	/ko/docs/MDN/Community/Contributing/Getting_started
 /ko/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS	/ko/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS
 /ko/docs/MDN/Contribute/Guidelines/Code_guidelines/Code_guidelines	/ko/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide
+/ko/docs/MDN/Contribute/Howto	/ko/docs/conflicting/MDN/Contribute
 /ko/docs/MDN/Contribute/Howto/Create_and_edit_pages	/ko/docs/MDN/Writing_guidelines/Howto/Creating_moving_deleting
 /ko/docs/MDN/Contribute/Howto/Report_a_problem	/ko/docs/MDN/Community/Issues
 /ko/docs/MDN/Contribute/Howto/Tag	/ko/docs/MDN/Writing_guidelines/Howto/Tag

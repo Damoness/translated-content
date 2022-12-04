@@ -3637,10 +3637,6 @@
       "jswisher"
     ]
   },
-  "MDN/Contribute/Howto": {
-    "modified": "2019-01-16T18:23:52.592Z",
-    "contributors": ["wbamberg", "Porkepix", "Baball", "Sheppy"]
-  },
   "MDN/Contribute/Processes": {
     "modified": "2020-09-03T03:23:25.806Z",
     "contributors": ["Voulto", "wbamberg", "jswisher"]
@@ -28038,6 +28034,10 @@
   "conflicting/Glossary/Firefox_OS": {
     "modified": "2019-03-23T22:44:37.220Z",
     "contributors": ["loella16", "Bat"]
+  },
+  "conflicting/MDN/Contribute": {
+    "modified": "2019-01-16T18:23:52.592Z",
+    "contributors": ["wbamberg", "Porkepix", "Baball", "Sheppy"]
   },
   "conflicting/MDN/Writing_guidelines": {
     "modified": "2020-09-30T15:29:18.429Z",

@@ -1,6 +1,6 @@
 ---
 title: 'MDN web docs: How-to ガイド'
-slug: MDN/Contribute/Howto
+slug: conflicting/MDN/Contribute_0bcab4c99ca5038c2d477c13fb21153d
 tags:
   - Documentation
   - ガイド
@@ -8,7 +8,9 @@ tags:
   - Landing
   - MDN Meta
 translation_of: MDN/Contribute/Howto
+original_slug: MDN/Contribute/Howto
 ---
+
 {{MDNSidebar}}
 
 ここにある記事は、MDN に協力する際に具体的な目標を達成するためのステップごとのガイドを提供するものです。

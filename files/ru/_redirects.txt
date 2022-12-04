@@ -284,6 +284,7 @@
 /ru/docs/MDN/Contribute/Creating_and_editing_pages	/ru/docs/MDN/Writing_guidelines/Howto/Creating_moving_deleting
 /ru/docs/MDN/Contribute/Feedback	/ru/docs/MDN/Community
 /ru/docs/MDN/Contribute/Getting_started	/ru/docs/MDN/Community/Contributing/Getting_started
+/ru/docs/MDN/Contribute/Howto	/ru/docs/conflicting/MDN/Contribute
 /ru/docs/MDN/Contribute/Howto/Add_or_update_browser_compatibility_data	/ru/docs/orphaned/MDN/Contribute/Howto/Add_or_update_browser_compatibility_data
 /ru/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live	/ru/docs/MDN/Writing_guidelines/Page_structures/Live_samples
 /ru/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web	/ru/docs/conflicting/MDN/Writing_guidelines/Page_structures/Live_samples

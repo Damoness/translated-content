@@ -4025,10 +4025,6 @@
       "Sheppy"
     ]
   },
-  "MDN/Contribute/Howto": {
-    "modified": "2020-10-15T15:37:40.278Z",
-    "contributors": ["我不会算命", "wbamberg", "maksyuki", "ziyunfei", "Sheppy"]
-  },
   "MDN/MDN_Product_Advisory_Board": {
     "modified": "2019-01-17T01:56:35.044Z",
     "contributors": ["wbamberg", "pluwen", "liminjun"]
@@ -33238,8 +33234,8 @@
     "contributors": ["Andrew_Pfeiffer"]
   },
   "conflicting/MDN/Contribute": {
-    "modified": "2019-01-16T16:56:07.625Z",
-    "contributors": ["ygtyugh"]
+    "modified": "2020-10-15T15:37:40.278Z",
+    "contributors": ["我不会算命", "wbamberg", "maksyuki", "ziyunfei", "Sheppy"]
   },
   "conflicting/MDN/Guidelines/CSS_style_guide": {
     "modified": "2020-09-30T15:32:46.742Z",

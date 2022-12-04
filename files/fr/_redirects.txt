@@ -3056,6 +3056,7 @@
 /fr/docs/MDN/Contribute/GitHub_best_practices	/fr/docs/MDN/Community/Issues
 /fr/docs/MDN/Contribute/GitHub_cheatsheet	/fr/docs/conflicting/MDN/Community/Issues
 /fr/docs/MDN/Contribute/Help_beginners	/fr/docs/MDN/Community/Learn_forum
+/fr/docs/MDN/Contribute/Howto	/fr/docs/conflicting/MDN/Contribute
 /fr/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live	/fr/docs/MDN/Writing_guidelines/Page_structures/Live_samples
 /fr/docs/MDN/Contribute/Howto/Create_and_edit_pages	/fr/docs/MDN/Writing_guidelines/Howto/Creating_moving_deleting
 /fr/docs/MDN/Contribute/Howto/Write_a_new_entry_in_the_Glossary	/fr/docs/MDN/Writing_guidelines/Howto/Write_a_new_entry_in_the_glossary
@@ -6304,7 +6305,6 @@
 /fr/docs/conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript	/fr/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
 /fr/docs/conflicting/Learn_370bfb0fa23e42f4384f010341852c43	/fr/docs/Learn
 /fr/docs/conflicting/Learn_6767a192c90d2c9c5179cf004fce2ee8	/fr/docs/Learn
-/fr/docs/conflicting/MDN/Contribute	/fr/docs/MDN/Contribute
 /fr/docs/conflicting/MDN/Tools	/fr/docs/orphaned/MDN/Tools
 /fr/docs/conflicting/Mozilla/Add-ons/WebExtensions	/fr/docs/Mozilla/Add-ons/WebExtensions
 /fr/docs/conflicting/Mozilla/Add-ons/WebExtensions/API/menus/overrideContext	/fr/docs/Mozilla/Add-ons/WebExtensions/API/menus/overrideContext
