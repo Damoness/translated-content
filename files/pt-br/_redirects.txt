@@ -864,6 +864,7 @@
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filtro	/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/toSource	/pt-BR/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Array/toString
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Boolean/toSource	/pt-BR/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Boolean/toString
+/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date/toGMTString	/pt-BR/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date/toSource	/pt-BR/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Date/toString
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Error/toSource	/pt-BR/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Error/toString
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Function/toSource	/pt-BR/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Function/toString

@@ -23684,10 +23684,6 @@
     "modified": "2020-10-15T21:27:17.686Z",
     "contributors": ["SphinxKnight", "edspeedy", "teoli", "tregagnon"]
   },
-  "Web/JavaScript/Reference/Global_Objects/Date/toGMTString": {
-    "modified": "2020-10-15T21:27:18.821Z",
-    "contributors": ["SphinxKnight", "teoli", "tregagnon"]
-  },
   "Web/JavaScript/Reference/Global_Objects/Date/toISOString": {
     "modified": "2020-10-15T21:27:16.901Z",
     "contributors": ["SphinxKnight", "teoli", "tregagnon"]
@@ -28151,6 +28147,10 @@
   "conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features_df783faa96fb2729e58461fd21615e98": {
     "modified": "2020-03-12T19:40:23.053Z",
     "contributors": ["SphinxKnight"]
+  },
+  "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString": {
+    "modified": "2020-10-15T21:27:18.821Z",
+    "contributors": ["SphinxKnight", "teoli", "tregagnon"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf": {
     "modified": "2019-04-08T13:06:24.098Z",

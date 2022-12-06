@@ -8730,10 +8730,6 @@
     "modified": "2019-03-23T22:37:22.411Z",
     "contributors": ["pabloff9"]
   },
-  "Web/JavaScript/Reference/Global_Objects/Date/toGMTString": {
-    "modified": "2020-10-15T22:34:12.107Z",
-    "contributors": ["FernandoKGA"]
-  },
   "Web/JavaScript/Reference/Global_Objects/Date/toISOString": {
     "modified": "2020-10-15T22:34:15.917Z",
     "contributors": ["FernandoKGA"]
@@ -11267,6 +11263,10 @@
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toString": {
     "modified": "2020-10-15T22:34:13.547Z",
+    "contributors": ["FernandoKGA"]
+  },
+  "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString": {
+    "modified": "2020-10-15T22:34:12.107Z",
     "contributors": ["FernandoKGA"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Error/toString": {

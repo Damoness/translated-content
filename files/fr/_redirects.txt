@@ -2322,7 +2322,7 @@
 /fr/docs/JavaScript/Reference/Objets_globaux/Date/setUTCSeconds	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCSeconds
 /fr/docs/JavaScript/Reference/Objets_globaux/Date/setYear	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/setYear
 /fr/docs/JavaScript/Reference/Objets_globaux/Date/toDateString	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toDateString
-/fr/docs/JavaScript/Reference/Objets_globaux/Date/toGMTString	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toGMTString
+/fr/docs/JavaScript/Reference/Objets_globaux/Date/toGMTString	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString
 /fr/docs/JavaScript/Reference/Objets_globaux/Date/toISOString	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString
 /fr/docs/JavaScript/Reference/Objets_globaux/Date/toJSON	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toJSON
 /fr/docs/JavaScript/Reference/Objets_globaux/Date/toLocaleDateString	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
@@ -5010,6 +5010,7 @@
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Array/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/toString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Boolean/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Boolean/toString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Collator	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Collator
+/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toGMTString	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Error/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Error/toString
@@ -5271,7 +5272,7 @@
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/setUTCSeconds	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCSeconds
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/setYear	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/setYear
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/toDateString	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toDateString
-/fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/toGMTString	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toGMTString
+/fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/toGMTString	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/toISOString	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/toJSON	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toJSON
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/Date/toLocaleDateString	/fr/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString

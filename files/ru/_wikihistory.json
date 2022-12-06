@@ -13236,10 +13236,6 @@
     "modified": "2019-03-23T23:07:29.510Z",
     "contributors": ["Mingun"]
   },
-  "Web/JavaScript/Reference/Global_Objects/Date/toGMTString": {
-    "modified": "2019-03-23T23:07:35.386Z",
-    "contributors": ["Mingun"]
-  },
   "Web/JavaScript/Reference/Global_Objects/Date/toISOString": {
     "modified": "2019-03-23T23:07:33.750Z",
     "contributors": ["Mingun"]
@@ -16986,6 +16982,10 @@
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toString": {
     "modified": "2019-03-23T23:07:30.899Z",
+    "contributors": ["Mingun"]
+  },
+  "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString": {
+    "modified": "2019-03-23T23:07:35.386Z",
     "contributors": ["Mingun"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Error": {

@@ -4690,6 +4690,7 @@
 /ja/docs/Web/JavaScript/Reference/Global_Objects/DataView_temp	/ja/docs/Web/JavaScript/Reference/Global_objects/DataView
 /ja/docs/Web/JavaScript/Reference/Global_Objects/Date/constructor	/ja/docs/Web/JavaScript/Reference/Global_Objects/Date
 /ja/docs/Web/JavaScript/Reference/Global_Objects/Date/prototype	/ja/docs/Web/JavaScript/Reference/Global_Objects/Date
+/ja/docs/Web/JavaScript/Reference/Global_Objects/Date/toGMTString	/ja/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString
 /ja/docs/Web/JavaScript/Reference/Global_Objects/Date/toSource	/ja/docs/Web/JavaScript/Reference/Global_Objects/Date/toString
 /ja/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat	/ja/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
 /ja/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat/DateTimeFormat	/ja/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat
