@@ -2257,8 +2257,10 @@
 /zh-CN/docs/Web/Guide/HTML/Canvas_tutorial/Pixel_manipulation_with_canvas	/zh-CN/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas
 /zh-CN/docs/Web/Guide/HTML/Canvas_tutorial/Transformations	/zh-CN/docs/Web/API/Canvas_API/Tutorial/Transformations
 /zh-CN/docs/Web/Guide/HTML/Canvas_tutorial/Using_images	/zh-CN/docs/Web/API/Canvas_API/Tutorial/Using_images
+/zh-CN/docs/Web/Guide/HTML/Constraint_validation	/zh-CN/docs/Web/HTML/Constraint_validation
 /zh-CN/docs/Web/Guide/HTML/Content_Editable	/zh-CN/docs/conflicting/Web/HTML/Global_attributes/contenteditable
 /zh-CN/docs/Web/Guide/HTML/Content_Editable/Rich-Text_Editing_in_Mozilla	/zh-CN/docs/orphaned/Web/Guide/HTML/Editable_content/Rich-Text_Editing_in_Mozilla
+/zh-CN/docs/Web/Guide/HTML/Content_categories	/zh-CN/docs/Web/HTML/Content_categories
 /zh-CN/docs/Web/Guide/HTML/Editable_content	/zh-CN/docs/conflicting/Web/HTML/Global_attributes/contenteditable
 /zh-CN/docs/Web/Guide/HTML/Editable_content/Rich-Text_Editing_in_Mozilla	/zh-CN/docs/orphaned/Web/Guide/HTML/Editable_content/Rich-Text_Editing_in_Mozilla
 /zh-CN/docs/Web/Guide/HTML/Forms	/zh-CN/docs/Learn/Forms

@@ -633,6 +633,8 @@
 /ru/docs/Web/Guide/HTML/Canvas_tutorial/Основы_анимации	/ru/docs/Web/API/Canvas_API/Tutorial/Basic_animations
 /ru/docs/Web/Guide/HTML/Canvas_tutorial/Применение_стилей_и_цветов	/ru/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
 /ru/docs/Web/Guide/HTML/Canvas_tutorial/Рисование_фигур	/ru/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+/ru/docs/Web/Guide/HTML/Constraint_validation	/ru/docs/Web/HTML/Constraint_validation
+/ru/docs/Web/Guide/HTML/Content_categories	/ru/docs/Web/HTML/Content_categories
 /ru/docs/Web/Guide/HTML/Drag_and_drop	/ru/docs/Web/API/HTML_Drag_and_Drop_API
 /ru/docs/Web/Guide/HTML/Drag_and_drop/Drag_operations	/ru/docs/Web/API/HTML_Drag_and_Drop_API/Drag_operations
 /ru/docs/Web/Guide/HTML/Editable_content	/ru/docs/conflicting/Web/HTML/Global_attributes/contenteditable

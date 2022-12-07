@@ -5798,10 +5798,6 @@
     "modified": "2019-03-23T23:24:23.146Z",
     "contributors": ["julio-elipse", "MarceloBRN", "LucasPrado", "MatCAlv"]
   },
-  "Web/Guide/HTML/Content_categories": {
-    "modified": "2019-03-18T21:16:20.736Z",
-    "contributors": ["ygormaximo"]
-  },
   "Web/Guide/Introduction_to_Web_development": {
     "modified": "2019-07-28T16:57:13.368Z",
     "contributors": ["rvenson"]
@@ -5884,6 +5880,10 @@
   "Web/HTML/CORS_enabled_image": {
     "modified": "2019-03-23T22:20:56.821Z",
     "contributors": ["mak213k"]
+  },
+  "Web/HTML/Content_categories": {
+    "modified": "2019-03-18T21:16:20.736Z",
+    "contributors": ["ygormaximo"]
   },
   "Web/HTML/Element": {
     "modified": "2020-10-20T02:01:24.831Z",

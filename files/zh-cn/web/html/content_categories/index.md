@@ -1,7 +1,9 @@
 ---
 title: 内容分类
-slug: Web/Guide/HTML/Content_categories
+slug: Web/HTML/Content_categories
+original_slug: Web/Guide/HTML/Content_categories
 ---
+
 每一个 HTML 元素都必须遵循定义了它可以包含哪一类内容的规则。 这些规则被归类为几个常见的元素内容模型（content model）。每个 HTML 元素都属于 0 个、1 个或多个内容模型，每个模型都有一些规则使得元素中的内容必须遵循一个 HTML 规范文档 ( HTML-conformant document)。
 
 以下是三种类型的内容分类：

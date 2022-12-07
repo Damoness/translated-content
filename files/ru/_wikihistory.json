@@ -10133,21 +10133,6 @@
       "nedimaon"
     ]
   },
-  "Web/Guide/HTML/Content_categories": {
-    "modified": "2019-09-23T08:37:02.214Z",
-    "contributors": [
-      "niktariy",
-      "Sotik",
-      "KTatyana",
-      "Isk1n",
-      "Angelskih",
-      "Quaiby",
-      "chernysh2909",
-      "alexbaumgertner",
-      "Aleksej",
-      "Lambrusco.pro"
-    ]
-  },
   "Web/Guide/Parsing_and_serializing_XML": {
     "modified": "2020-10-11T12:29:17.772Z",
     "contributors": ["Akhat", "bogpok"]
@@ -10238,6 +10223,21 @@
   "Web/HTML/CORS_enabled_image": {
     "modified": "2020-05-24T11:41:53.618Z",
     "contributors": ["sve-kai-itmo"]
+  },
+  "Web/HTML/Content_categories": {
+    "modified": "2019-09-23T08:37:02.214Z",
+    "contributors": [
+      "niktariy",
+      "Sotik",
+      "KTatyana",
+      "Isk1n",
+      "Angelskih",
+      "Quaiby",
+      "chernysh2909",
+      "alexbaumgertner",
+      "Aleksej",
+      "Lambrusco.pro"
+    ]
   },
   "Web/HTML/Element": {
     "modified": "2019-03-24T00:04:23.071Z",
