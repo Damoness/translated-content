@@ -4972,10 +4972,6 @@
     "modified": "2020-10-15T22:08:31.397Z",
     "contributors": ["Enroller"]
   },
-  "Web/API/Element/createShadowRoot": {
-    "modified": "2019-03-18T21:17:10.452Z",
-    "contributors": ["Sparks"]
-  },
   "Web/API/Element/error_event": {
     "modified": "2019-03-18T20:55:03.206Z",
     "contributors": ["Corba", "iGureEV"]
@@ -5178,6 +5174,10 @@
   "Web/API/Element/setAttribute": {
     "modified": "2020-09-12T18:32:00.501Z",
     "contributors": ["andrewsmnv", "BychekRU", "kirill001"]
+  },
+  "Web/API/Element/shadowRoot": {
+    "modified": "2019-03-18T21:17:10.452Z",
+    "contributors": ["Sparks"]
   },
   "Web/API/Element/slot": {
     "modified": "2020-10-15T22:18:20.103Z",
@@ -6524,10 +6524,6 @@
     "modified": "2019-03-23T22:53:28.067Z",
     "contributors": ["AlexAlex"]
   },
-  "Web/API/Node/isSupported": {
-    "modified": "2019-03-23T22:53:39.075Z",
-    "contributors": ["AlexAlex"]
-  },
   "Web/API/Node/lastChild": {
     "modified": "2019-03-23T23:31:45.681Z",
     "contributors": ["kup", "fscholz", "jsx", "Yuri"]
@@ -7812,7 +7808,7 @@
     "modified": "2020-11-28T13:21:29.053Z",
     "contributors": ["ialexi-bl", "kjkoala", "RAPOS"]
   },
-  "Web/API/XMLDocument/async": {
+  "Web/API/XMLDocument": {
     "modified": "2019-04-24T21:17:23.958Z",
     "contributors": ["borseno"]
   },
@@ -16684,7 +16680,7 @@
     "contributors": ["12kb", "FlowerDeLuce"]
   },
   "conflicting/Web/API/Node": {
-    "modified": "2019-03-23T22:53:30.789Z",
+    "modified": "2019-03-23T22:53:39.075Z",
     "contributors": ["AlexAlex"]
   },
   "conflicting/Web/API/Node_378aed5ed6869e50853edbc988cf9556": {

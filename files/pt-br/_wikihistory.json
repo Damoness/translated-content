@@ -4281,10 +4281,6 @@
     "modified": "2019-03-23T23:16:57.470Z",
     "contributors": ["teoli", "eliezerb"]
   },
-  "Web/API/Window/openDialog": {
-    "modified": "2019-03-23T23:04:23.875Z",
-    "contributors": ["saulodecarlo", "teoli", "perrucho"]
-  },
   "Web/API/Window/popstate_event": {
     "modified": "2019-04-26T08:34:23.645Z",
     "contributors": [
@@ -4365,10 +4361,6 @@
   "Web/API/XMLDocument": {
     "modified": "2020-10-15T22:12:36.526Z",
     "contributors": ["ExE-Boss", "msilvaj"]
-  },
-  "Web/API/XMLDocument/async": {
-    "modified": "2019-04-24T21:10:36.508Z",
-    "contributors": ["ExE-Boss", "edurodriguesdias"]
   },
   "Web/API/XMLHttpRequest": {
     "modified": "2019-05-02T20:01:13.466Z",
@@ -11090,6 +11082,10 @@
     "modified": "2019-03-23T23:30:19.566Z",
     "contributors": ["Fernandolrs", "Sheppy"]
   },
+  "conflicting/Web/API/Window": {
+    "modified": "2019-03-23T23:04:23.875Z",
+    "contributors": ["saulodecarlo", "teoli", "perrucho"]
+  },
   "conflicting/Web/API/Window/load_event": {
     "modified": "2019-03-23T22:21:10.943Z",
     "contributors": ["jeanonline"]
@@ -11105,6 +11101,10 @@
   "conflicting/Web/API/WindowOrWorkerGlobalScope_e2691f7ad05781a30c5fc5bb3b3f633a": {
     "modified": "2019-03-23T23:01:45.978Z",
     "contributors": ["teoli"]
+  },
+  "conflicting/Web/API/XMLDocument": {
+    "modified": "2019-04-24T21:10:36.508Z",
+    "contributors": ["ExE-Boss", "edurodriguesdias"]
   },
   "conflicting/Web/API_dd04ca1265cb79b990b8120e5f5070d3": {
     "modified": "2019-03-23T23:26:12.246Z",

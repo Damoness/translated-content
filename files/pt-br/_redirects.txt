@@ -564,7 +564,7 @@
 /pt-BR/docs/Web/API/Document.querySelector	/pt-BR/docs/Web/API/Document/querySelector
 /pt-BR/docs/Web/API/Document.querySelectorAll	/pt-BR/docs/Web/API/Document/querySelectorAll
 /pt-BR/docs/Web/API/Document/ElementoRegistrado	/pt-BR/docs/Web/API/Document/registerElement
-/pt-BR/docs/Web/API/Document/async	/pt-BR/docs/Web/API/XMLDocument/async
+/pt-BR/docs/Web/API/Document/async	/pt-BR/docs/conflicting/Web/API/XMLDocument
 /pt-BR/docs/Web/API/Document/defaultView/popstate_event	/pt-BR/docs/Web/API/Window/popstate_event
 /pt-BR/docs/Web/API/Document/defaultView/resize_event	/pt-BR/docs/Web/API/Window/resize_event
 /pt-BR/docs/Web/API/Document/height	/pt-BR/docs/Web/API/Element/clientHeight
@@ -634,9 +634,10 @@
 /pt-BR/docs/Web/API/Web_Storage_API_pt_br/Using_the_Web_Storage_API	/pt-BR/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API
 /pt-BR/docs/Web/API/Window.alert	/pt-BR/docs/Web/API/Window/alert
 /pt-BR/docs/Web/API/Window.navigator	/pt-BR/docs/Web/API/Window/navigator
-/pt-BR/docs/Web/API/Window.openDialog	/pt-BR/docs/Web/API/Window/openDialog
+/pt-BR/docs/Web/API/Window.openDialog	/pt-BR/docs/conflicting/Web/API/Window
 /pt-BR/docs/Web/API/Window/Window.localStorage	/pt-BR/docs/Web/API/Window/localStorage
 /pt-BR/docs/Web/API/Window/crypto	/pt-BR/docs/Web/API/crypto_property
+/pt-BR/docs/Web/API/Window/openDialog	/pt-BR/docs/conflicting/Web/API/Window
 /pt-BR/docs/Web/API/Window/performance	/pt-BR/docs/Web/API/performance_property
 /pt-BR/docs/Web/API/Window/setCursor	/pt-BR/docs/orphaned/Web/API/Window/setCursor
 /pt-BR/docs/Web/API/WindowBase64/atob	/pt-BR/docs/Web/API/atob
@@ -651,6 +652,7 @@
 /pt-BR/docs/Web/API/WindowOrWorkerGlobalScope/setInterval	/pt-BR/docs/Web/API/setInterval
 /pt-BR/docs/Web/API/WindowTimers.clearTimeout	/pt-BR/docs/Web/API/clearTimeout
 /pt-BR/docs/Web/API/WindowTimers/clearTimeout	/pt-BR/docs/Web/API/clearTimeout
+/pt-BR/docs/Web/API/XMLDocument/async	/pt-BR/docs/conflicting/Web/API/XMLDocument
 /pt-BR/docs/Web/API/XMLHttpRequest/Requisicoes_sincronas_e_assincronas	/pt-BR/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests
 /pt-BR/docs/Web/API/XMLHttpRequest/Usando_XMLHttpRequest	/pt-BR/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
 /pt-BR/docs/Web/API/XMLHttpRequest/onreadystatechange	/pt-BR/docs/Web/API/XMLHttpRequest/readystatechange_event
