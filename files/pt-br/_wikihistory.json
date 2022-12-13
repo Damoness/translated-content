@@ -6725,14 +6725,6 @@
     "modified": "2020-05-19T15:14:13.958Z",
     "contributors": ["eestein", "helton-mori-dev", "julio-elipse", "gabcs07"]
   },
-  "Web/HTTP/Feature_Policy": {
-    "modified": "2020-10-15T22:32:05.540Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Feature_Policy/Using_Feature_Policy": {
-    "modified": "2020-07-20T20:48:22.250Z",
-    "contributors": ["FernandoKGA"]
-  },
   "Web/HTTP/Headers": {
     "modified": "2020-08-02T21:34:50.722Z",
     "contributors": [
@@ -6926,10 +6918,6 @@
     "modified": "2020-10-15T22:07:21.086Z",
     "contributors": ["SphinxKnight", "jamrocha"]
   },
-  "Web/HTTP/Headers/Feature-Policy": {
-    "modified": "2020-10-15T22:32:03.095Z",
-    "contributors": ["FernandoKGA"]
-  },
   "Web/HTTP/Headers/Forwarded": {
     "modified": "2020-10-15T22:31:19.681Z",
     "contributors": ["FernandoKGA"]
@@ -6988,6 +6976,10 @@
   },
   "Web/HTTP/Headers/Origin": {
     "modified": "2020-10-15T22:31:35.312Z",
+    "contributors": ["FernandoKGA"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy": {
+    "modified": "2020-10-15T22:32:03.095Z",
     "contributors": ["FernandoKGA"]
   },
   "Web/HTTP/Headers/Pragma": {
@@ -7192,6 +7184,10 @@
       "renatodantas",
       "holdonmax"
     ]
+  },
+  "Web/HTTP/Permissions_Policy": {
+    "modified": "2020-10-15T22:32:05.540Z",
+    "contributors": ["mfuji09"]
   },
   "Web/HTTP/Redirections": {
     "modified": "2019-03-18T21:39:38.468Z",
@@ -11843,6 +11839,10 @@
   "orphaned/Web/HTML/favicon": {
     "modified": "2019-05-05T00:27:21.844Z",
     "contributors": ["willianpascoal"]
+  },
+  "orphaned/Web/HTTP/Feature_Policy/Using_Feature_Policy": {
+    "modified": "2020-07-20T20:48:22.250Z",
+    "contributors": ["FernandoKGA"]
   },
   "orphaned/Web/JavaScript/Guide/Coleções_chaveadas": {
     "modified": "2020-03-12T19:42:42.934Z",

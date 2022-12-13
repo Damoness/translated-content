@@ -11083,14 +11083,6 @@
       "mariag"
     ]
   },
-  "Web/HTTP/Feature_Policy": {
-    "modified": "2020-10-15T22:16:37.399Z",
-    "contributors": ["ruslanlavrega81", "zwug", "moveax3"]
-  },
-  "Web/HTTP/Feature_Policy/Using_Feature_Policy": {
-    "modified": "2020-02-11T10:54:06.896Z",
-    "contributors": ["mechtool"]
-  },
   "Web/HTTP/Headers": {
     "modified": "2020-10-01T10:57:48.980Z",
     "contributors": [
@@ -11346,6 +11338,10 @@
       "ENBelko",
       "SnejUgal"
     ]
+  },
+  "Web/HTTP/Permissions_Policy": {
+    "modified": "2020-10-15T22:16:37.399Z",
+    "contributors": ["ruslanlavrega81", "zwug", "moveax3"]
   },
   "Web/HTTP/Redirections": {
     "modified": "2019-11-21T10:53:45.387Z",
@@ -17841,6 +17837,10 @@
       "Skolpov",
       "isatalkin"
     ]
+  },
+  "orphaned/Web/HTTP/Feature_Policy/Using_Feature_Policy": {
+    "modified": "2020-02-11T10:54:06.896Z",
+    "contributors": ["mechtool"]
   },
   "orphaned/Web/JavaScript/Guide/Об_этом_руководстве": {
     "modified": "2019-03-24T00:13:23.720Z",

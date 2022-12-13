@@ -22137,14 +22137,6 @@
     "modified": "2020-10-15T22:27:25.103Z",
     "contributors": ["mfuji09", "Potappo", "shisama", "53able"]
   },
-  "Web/HTTP/Feature_Policy": {
-    "modified": "2020-10-15T22:08:10.227Z",
-    "contributors": ["mfuji09", "silverskyvicto"]
-  },
-  "Web/HTTP/Feature_Policy/Using_Feature_Policy": {
-    "modified": "2020-10-09T09:56:44.499Z",
-    "contributors": ["maechabin", "mfuji09", "dlwe"]
-  },
   "Web/HTTP/Headers": {
     "modified": "2020-04-10T02:46:53.832Z",
     "contributors": ["mfuji09", "ycrack", "yyss", "hamasaki"]
@@ -22437,50 +22429,6 @@
     "modified": "2020-10-15T22:08:53.183Z",
     "contributors": ["mfuji09", "silverskyvicto"]
   },
-  "Web/HTTP/Headers/Feature-Policy": {
-    "modified": "2020-10-15T22:08:29.642Z",
-    "contributors": ["mfuji09", "silverskyvicto", "jpmedley"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/autoplay": {
-    "modified": "2020-10-15T22:11:22.688Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/battery": {
-    "modified": "2020-10-15T22:34:41.072Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/camera": {
-    "modified": "2020-10-15T22:11:23.091Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/encrypted-media": {
-    "modified": "2020-10-15T22:11:22.190Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/fullscreen": {
-    "modified": "2020-10-15T22:08:25.264Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/geolocation": {
-    "modified": "2020-10-15T22:08:25.691Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/microphone": {
-    "modified": "2020-10-15T22:08:25.459Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/midi": {
-    "modified": "2020-10-15T22:11:20.097Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/payment": {
-    "modified": "2020-10-15T22:11:22.549Z",
-    "contributors": ["mfuji09"]
-  },
-  "Web/HTTP/Headers/Feature-Policy/xr-spatial-tracking": {
-    "modified": "2020-10-15T22:11:22.366Z",
-    "contributors": ["mfuji09"]
-  },
   "Web/HTTP/Headers/Forwarded": {
     "modified": "2020-10-15T22:07:23.420Z",
     "contributors": ["mfuji09"]
@@ -22536,6 +22484,50 @@
   "Web/HTTP/Headers/Origin": {
     "modified": "2020-10-15T22:03:11.303Z",
     "contributors": ["mfuji09", "Meganesaru"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy": {
+    "modified": "2020-10-15T22:08:29.642Z",
+    "contributors": ["mfuji09", "silverskyvicto", "jpmedley"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/autoplay": {
+    "modified": "2020-10-15T22:11:22.688Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/battery": {
+    "modified": "2020-10-15T22:34:41.072Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/camera": {
+    "modified": "2020-10-15T22:11:23.091Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/encrypted-media": {
+    "modified": "2020-10-15T22:11:22.190Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/fullscreen": {
+    "modified": "2020-10-15T22:08:25.264Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/geolocation": {
+    "modified": "2020-10-15T22:08:25.691Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/microphone": {
+    "modified": "2020-10-15T22:08:25.459Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/midi": {
+    "modified": "2020-10-15T22:11:20.097Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/payment": {
+    "modified": "2020-10-15T22:11:22.549Z",
+    "contributors": ["mfuji09"]
+  },
+  "Web/HTTP/Headers/Permissions-Policy/xr-spatial-tracking": {
+    "modified": "2020-10-15T22:11:22.366Z",
+    "contributors": ["mfuji09"]
   },
   "Web/HTTP/Headers/Pragma": {
     "modified": "2020-10-15T22:09:28.445Z",
@@ -22740,6 +22732,10 @@
   "Web/HTTP/Overview": {
     "modified": "2019-10-29T12:14:11.528Z",
     "contributors": ["mfuji09", "tetsuya.ohira", "yyss"]
+  },
+  "Web/HTTP/Permissions_Policy": {
+    "modified": "2020-10-15T22:08:10.227Z",
+    "contributors": ["mfuji09", "silverskyvicto"]
   },
   "Web/HTTP/Protocol_upgrade_mechanism": {
     "modified": "2019-03-18T20:51:00.470Z",
@@ -32156,6 +32152,10 @@
   "orphaned/Web/Guide/Localizations_and_character_encodings": {
     "modified": "2020-09-18T02:40:01.125Z",
     "contributors": ["morinokami", "silverskyvicto"]
+  },
+  "orphaned/Web/HTTP/Feature_Policy/Using_Feature_Policy": {
+    "modified": "2020-10-09T09:56:44.499Z",
+    "contributors": ["maechabin", "mfuji09", "dlwe"]
   },
   "orphaned/Web/JavaScript/Guide/Creating_a_Regular_Expression": {
     "modified": "2019-03-24T00:01:11.372Z",
