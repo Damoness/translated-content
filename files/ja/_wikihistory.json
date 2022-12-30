@@ -7456,10 +7456,6 @@
     "modified": "2020-10-15T21:15:48.961Z",
     "contributors": ["mfuji09", "fscholz", "khalid32", "ethertank", "Potappo"]
   },
-  "Web/API/Document/origin": {
-    "modified": "2020-10-17T12:14:26.538Z",
-    "contributors": ["mfuji09", "YuichiNukiyama"]
-  },
   "Web/API/Document/paste_event": {
     "modified": "2020-10-15T22:27:22.949Z",
     "contributors": ["mfuji09"]
@@ -31380,6 +31376,10 @@
   "conflicting/Web/API/caches": {
     "modified": "2020-10-15T22:29:46.631Z",
     "contributors": ["Wind1808"]
+  },
+  "conflicting/Web/API/origin": {
+    "modified": "2020-10-17T12:14:26.538Z",
+    "contributors": ["mfuji09", "YuichiNukiyama"]
   },
   "conflicting/Web/Accessibility": {
     "modified": "2019-03-23T22:41:12.085Z",

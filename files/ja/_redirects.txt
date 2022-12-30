@@ -86,7 +86,7 @@
 /ja/docs/API/Document/onfullscreenerror	/ja/docs/conflicting/Web/API/Document/fullscreenerror_event
 /ja/docs/API/Document/onselectionchange	/ja/docs/conflicting/Web/API/HTMLInputElement/selectionchange_event
 /ja/docs/API/Document/open	/ja/docs/Web/API/Document/open
-/ja/docs/API/Document/origin	/ja/docs/Web/API/Document/origin
+/ja/docs/API/Document/origin	/ja/docs/conflicting/Web/API/origin
 /ja/docs/API/Document/plugins	/ja/docs/Web/API/Document/plugins
 /ja/docs/API/Document/queryCommandSupported	/ja/docs/Web/API/Document/queryCommandSupported
 /ja/docs/API/Document/querySelector	/ja/docs/Web/API/Document/querySelector
@@ -3261,6 +3261,7 @@
 /ja/docs/Web/API/Document/onoffline	/ja/docs/Web/API/Window/offline_event
 /ja/docs/Web/API/Document/ononline	/ja/docs/Web/API/Window/online_event
 /ja/docs/Web/API/Document/onselectionchange	/ja/docs/conflicting/Web/API/HTMLInputElement/selectionchange_event
+/ja/docs/Web/API/Document/origin	/ja/docs/conflicting/Web/API/origin
 /ja/docs/Web/API/Document/pointercancel_event	/ja/docs/conflicting/Web/API/Element/pointercancel_event
 /ja/docs/Web/API/Document/pointerdown_event	/ja/docs/conflicting/Web/API/Element/pointerdown_event
 /ja/docs/Web/API/Document/pointerenter_event	/ja/docs/conflicting/Web/API/Element/pointerenter_event

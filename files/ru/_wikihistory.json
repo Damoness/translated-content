@@ -4742,10 +4742,6 @@
     "modified": "2020-10-15T21:38:46.139Z",
     "contributors": ["boxa6", "aethawalka"]
   },
-  "Web/API/Document/origin": {
-    "modified": "2019-03-23T22:40:35.301Z",
-    "contributors": ["vyushin"]
-  },
   "Web/API/Document/querySelector": {
     "modified": "2020-10-15T21:27:25.041Z",
     "contributors": [
@@ -7976,6 +7972,10 @@
   "Web/API/notification": {
     "modified": "2019-03-23T22:43:07.772Z",
     "contributors": ["Dimonasdf", "talgautb", "102", "teoli", "fsanano"]
+  },
+  "Web/API/origin": {
+    "modified": "2019-03-23T22:40:35.301Z",
+    "contributors": ["vyushin"]
   },
   "Web/API/performance_property": {
     "modified": "2019-03-18T21:36:16.802Z",

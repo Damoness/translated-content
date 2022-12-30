@@ -408,6 +408,7 @@
 /ru/docs/Web/API/Document/dragstart_event	/ru/docs/conflicting/Web/API/HTMLElement/dragstart_event
 /ru/docs/Web/API/Document/height	/ru/docs/conflicting/Web/API/Element/clientHeight
 /ru/docs/Web/API/Document/keypress_event	/ru/docs/Web/API/Element/keypress_event
+/ru/docs/Web/API/Document/origin	/ru/docs/Web/API/origin
 /ru/docs/Web/API/DocumentOrShadowRoot/activeElement	/ru/docs/Web/API/Document/activeElement
 /ru/docs/Web/API/DocumentOrShadowRoot/getSelection	/ru/docs/Web/API/Document/getSelection
 /ru/docs/Web/API/EffectTiming	/ru/docs/Web/API/KeyframeEffect/KeyframeEffect
