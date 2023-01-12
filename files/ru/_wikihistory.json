@@ -7287,10 +7287,6 @@
     "modified": "2020-02-18T04:33:19.219Z",
     "contributors": ["mechtool"]
   },
-  "Web/API/WebRTC_API/adapter.js": {
-    "modified": "2020-02-18T04:29:30.086Z",
-    "contributors": ["mechtool"]
-  },
   "Web/API/WebSocket": {
     "modified": "2020-10-15T21:37:20.947Z",
     "contributors": [
@@ -17688,6 +17684,10 @@
   "orphaned/Web/API/ServiceWorkerState": {
     "modified": "2019-12-29T10:30:40.493Z",
     "contributors": ["sh7dm"]
+  },
+  "orphaned/Web/API/WebRTC_API/adapter.js": {
+    "modified": "2020-02-18T04:29:30.086Z",
+    "contributors": ["mechtool"]
   },
   "orphaned/Web/API/Web_Crypto_API/Checking_authenticity_with_password": {
     "modified": "2019-04-10T04:25:54.752Z",

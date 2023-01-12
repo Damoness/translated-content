@@ -14519,10 +14519,6 @@
     "modified": "2019-03-23T22:13:47.101Z",
     "contributors": ["fscholz", "wbamberg", "chen4w", "bigfat", "yxxgoogle"]
   },
-  "Web/API/WebRTC_API/adapter.js": {
-    "modified": "2020-04-17T09:34:28.178Z",
-    "contributors": ["charliex2", "physihan"]
-  },
   "Web/API/WebSocket": {
     "modified": "2020-10-15T21:37:01.958Z",
     "contributors": [
@@ -35767,6 +35763,10 @@
   "orphaned/Web/API/UIEvent/isChar": {
     "modified": "2019-03-24T00:17:00.068Z",
     "contributors": ["ziyunfei", "teoli", "jsx"]
+  },
+  "orphaned/Web/API/WebRTC_API/adapter.js": {
+    "modified": "2020-04-17T09:34:28.178Z",
+    "contributors": ["charliex2", "physihan"]
   },
   "orphaned/Web/API/WebSockets_API/WebSocket_Server_Vb.NET": {
     "modified": "2019-03-18T21:29:02.340Z",
