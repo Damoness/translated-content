@@ -10197,6 +10197,10 @@
     "modified": "2020-12-10T15:09:08.081Z",
     "contributors": ["SedovDP"]
   },
+  "Web/HTML/Attributes/rel": {
+    "modified": "2019-03-23T22:35:07.110Z",
+    "contributors": ["BychekRU"]
+  },
   "Web/HTML/Block-level_elements": {
     "modified": "2019-03-23T23:03:37.270Z",
     "contributors": [
@@ -10889,10 +10893,6 @@
       "Filofei",
       "Chronosms"
     ]
-  },
-  "Web/HTML/Link_types": {
-    "modified": "2019-03-23T22:35:07.110Z",
-    "contributors": ["BychekRU"]
   },
   "Web/HTML/Quirks_Mode_and_Standards_Mode": {
     "modified": "2019-03-23T22:44:29.253Z",

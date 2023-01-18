@@ -21018,10 +21018,6 @@
     "modified": "2019-04-06T13:04:18.081Z",
     "contributors": ["SphinxKnight", "KhalilSnaake", "numahell", "wakka27"]
   },
-  "Web/HTML/Link_types": {
-    "modified": "2020-10-15T21:26:15.592Z",
-    "contributors": ["SphinxKnight", "cdr", "louuis", "jcbita"]
-  },
   "Web/HTML/Microdata": {
     "modified": "2019-07-30T02:49:00.444Z",
     "contributors": ["SphinxKnight", "Emmanuel.KWENE"]
@@ -28047,6 +28043,10 @@
   "conflicting/Web/CSS_7fc1a1afe4642afd225ebf1b3d6227a7": {
     "modified": "2020-10-15T21:44:13.646Z",
     "contributors": ["SphinxKnight", "xdelatour"]
+  },
+  "conflicting/Web/HTML/Attributes/rel": {
+    "modified": "2020-10-15T21:26:15.592Z",
+    "contributors": ["SphinxKnight", "cdr", "louuis", "jcbita"]
   },
   "conflicting/Web/HTML/Global_attributes/contenteditable": {
     "modified": "2019-04-20T23:42:36.501Z",
