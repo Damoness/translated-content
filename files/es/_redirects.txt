@@ -1611,6 +1611,7 @@
 /es/docs/Web/API/Document/height	/es/docs/conflicting/Web/API/Element/clientHeight
 /es/docs/Web/API/Document/keydown_event	/es/docs/Web/API/Element/keydown_event
 /es/docs/Web/API/Document/keyup_event	/es/docs/Web/API/Element/keyup_event
+/es/docs/Web/API/Document/registerElement	/es/docs/conflicting/Web/API/CustomElementRegistry/define
 /es/docs/Web/API/Document/selectstart_event	/es/docs/Web/API/Node/selectstart_event
 /es/docs/Web/API/DocumentOrShadowRoot/getSelection	/es/docs/Web/API/Document/getSelection
 /es/docs/Web/API/DocumentOrShadowRoot/pointerLockElement	/es/docs/Web/API/Document/pointerLockElement

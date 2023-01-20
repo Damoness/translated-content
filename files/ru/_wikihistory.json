@@ -4453,6 +4453,10 @@
     "modified": "2020-10-31T11:34:07.075Z",
     "contributors": ["tom93", "qkudev"]
   },
+  "Web/API/CustomElementRegistry/define": {
+    "modified": "2019-03-23T22:53:06.025Z",
+    "contributors": ["DenVdmj"]
+  },
   "Web/API/DOMHighResTimeStamp": {
     "modified": "2020-10-15T22:26:00.707Z",
     "contributors": ["Kiryhas"]
@@ -4789,10 +4793,6 @@
   "Web/API/Document/referrer": {
     "modified": "2020-10-15T21:37:05.731Z",
     "contributors": ["alexxxxkkk", "boxa6", "Kochetkoff", "Vlad.Abdullin"]
-  },
-  "Web/API/Document/registerElement": {
-    "modified": "2019-03-23T22:53:06.025Z",
-    "contributors": ["DenVdmj"]
   },
   "Web/API/Document/scripts": {
     "modified": "2019-03-23T22:33:09.075Z",

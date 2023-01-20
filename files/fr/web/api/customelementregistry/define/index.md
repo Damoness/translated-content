@@ -1,6 +1,6 @@
 ---
 title: Document.registerElement()
-slug: Web/API/Document/registerElement
+slug: Web/API/CustomElementRegistry/define
 tags:
   - API
   - Composants Web
@@ -9,7 +9,9 @@ tags:
   - Méthode
   - Référence(2)
 translation_of: Web/API/Document/registerElement
+original_slug: Web/API/Document/registerElement
 ---
+
 {{APIRef("DOM")}} {{Deprecated_header}}
 
 > **Attention :** document.registerElement() est déprécié en faveur de [customElements.define()](/fr/docs/Web/API/CustomElementRegistry/define).

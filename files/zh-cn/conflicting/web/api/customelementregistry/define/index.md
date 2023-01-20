@@ -1,7 +1,9 @@
 ---
 title: Document.registerElement()
-slug: Web/API/Document/registerElement
+slug: conflicting/Web/API/CustomElementRegistry/define
+original_slug: Web/API/Document/registerElement
 ---
+
 {{APIRef("DOM")}}{{Deprecated_header}}
 
 > **警告：** 不建议使用`document.registerElement（）`,请使用{{DOMxRef("CustomElementRegistry.define()","customElements.define()")}}。
