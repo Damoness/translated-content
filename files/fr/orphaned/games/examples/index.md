@@ -1,14 +1,15 @@
 ---
 title: Exemples
-slug: Games/Examples
+slug: orphaned/Games/Examples
 tags:
   - Demos
   - Exemples
   - Jeux
   - Web
 translation_of: Games/Examples
-original_slug: Jeux/Exemples
+original_slug: Games/Examples
 ---
+
 {{GamesSidebar}}
 
 Cette page liste un grand nombre de démos de technologies web impressionnantes vous permettant de vous inspirer et de vous amuser. Une preuve de ce qui peut être fait avec Javascript, WebGL et autres. Les deux premières sections listent des jeux tandis que la troisième est une liste de démos de technologies web.
