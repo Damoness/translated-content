@@ -535,6 +535,7 @@
 /zh-CN/docs/Glossary/502	/zh-CN/docs/Web/HTTP/Status/502
 /zh-CN/docs/Glossary/Bézier_curve	/zh-CN/docs/Glossary/Bezier_curve
 /zh-CN/docs/Glossary/DHTML	/zh-CN/docs/orphaned/Glossary/DHTML
+/zh-CN/docs/Glossary/Descriptor_(CSS)	/zh-CN/docs/Glossary/CSS_Descriptor
 /zh-CN/docs/Glossary/Dynamic_programming_language	/zh-CN/docs/orphaned/Glossary/Dynamic_programming_language
 /zh-CN/docs/Glossary/Empty_element	/zh-CN/docs/Glossary/Void_element
 /zh-CN/docs/Glossary/Grid_Rows	/zh-CN/docs/Glossary/Grid_Row
@@ -542,6 +543,7 @@
 /zh-CN/docs/Glossary/IP地址	/zh-CN/docs/Glossary/IP_Address
 /zh-CN/docs/Glossary/Serialize	/zh-CN/docs/Glossary/Serialization
 /zh-CN/docs/Glossary/Symbol	/zh-CN/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Symbol
+/zh-CN/docs/Glossary/XHR_(XMLHttpRequest)	/zh-CN/docs/Glossary/XMLHttpRequest
 /zh-CN/docs/Glossary/jQuery	/zh-CN/docs/orphaned/Glossary/jQuery
 /zh-CN/docs/Glossary/主轴	/zh-CN/docs/Glossary/Main_Axis
 /zh-CN/docs/Glossary/交叉轴	/zh-CN/docs/Glossary/Cross_Axis

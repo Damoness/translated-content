@@ -895,7 +895,7 @@
     "modified": "2019-03-18T21:43:12.877Z",
     "contributors": ["KirilSlender"]
   },
-  "Glossary/Round_Trip_Time_(RTT)": {
+  "Glossary/Round_Trip_Time": {
     "modified": "2019-11-20T06:08:45.669Z",
     "contributors": ["Antosik"]
   },
@@ -1055,10 +1055,6 @@
     "modified": "2019-03-23T22:19:46.418Z",
     "contributors": ["smkoyan"]
   },
-  "Glossary/XHR_(XMLHttpRequest)": {
-    "modified": "2020-10-27T09:22:04.704Z",
-    "contributors": ["duckDominatrix"]
-  },
   "Glossary/XHTML": {
     "modified": "2019-03-24T00:04:41.651Z",
     "contributors": ["Sheppy", "teoli", "shaman"]
@@ -1066,6 +1062,10 @@
   "Glossary/XML": {
     "modified": "2019-03-26T03:12:53.364Z",
     "contributors": ["boxa6", "Houstton"]
+  },
+  "Glossary/XMLHttpRequest": {
+    "modified": "2020-10-27T09:22:04.704Z",
+    "contributors": ["duckDominatrix"]
   },
   "Glossary/application_context": {
     "modified": "2019-03-18T21:33:46.218Z",

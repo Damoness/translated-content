@@ -91,7 +91,9 @@
 /ru/docs/Glossary/Bézier_curve	/ru/docs/Glossary/Bezier_curve
 /ru/docs/Glossary/Dynamic_programming_language	/ru/docs/orphaned/Glossary/Dynamic_programming_language
 /ru/docs/Glossary/Empty_element	/ru/docs/Glossary/Void_element
+/ru/docs/Glossary/Round_Trip_Time_(RTT)	/ru/docs/Glossary/Round_Trip_Time
 /ru/docs/Glossary/Symbol	/ru/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Symbol
+/ru/docs/Glossary/XHR_(XMLHttpRequest)	/ru/docs/Glossary/XMLHttpRequest
 /ru/docs/Glossary/jQuery	/ru/docs/orphaned/Glossary/jQuery
 /ru/docs/Glossary/пустой_элемент	/ru/docs/Glossary/Void_element
 /ru/docs/HTML	/ru/docs/Web/HTML
@@ -1046,7 +1048,7 @@
 /ru/docs/Словарь/Regular_expression	/ru/docs/Glossary/Regular_expression
 /ru/docs/Словарь/Request_header	/ru/docs/Glossary/Request_header
 /ru/docs/Словарь/Responsive_web_design	/ru/docs/Glossary/Responsive_web_design
-/ru/docs/Словарь/Round_Trip_Time_(RTT)	/ru/docs/Glossary/Round_Trip_Time_(RTT)
+/ru/docs/Словарь/Round_Trip_Time_(RTT)	/ru/docs/Glossary/Round_Trip_Time
 /ru/docs/Словарь/SDP	/ru/docs/Glossary/SDP
 /ru/docs/Словарь/SEO	/ru/docs/Glossary/SEO
 /ru/docs/Словарь/SGML	/ru/docs/Glossary/SGML
@@ -1079,7 +1081,7 @@
 /ru/docs/Словарь/WebSockets	/ru/docs/Glossary/WebSockets
 /ru/docs/Словарь/World_Wide_Web	/ru/docs/Glossary/World_Wide_Web
 /ru/docs/Словарь/Wrapper	/ru/docs/Glossary/Wrapper
-/ru/docs/Словарь/XHR_(XMLHttpRequest)	/ru/docs/Glossary/XHR_(XMLHttpRequest)
+/ru/docs/Словарь/XHR_(XMLHttpRequest)	/ru/docs/Glossary/XMLHttpRequest
 /ru/docs/Словарь/XHTML	/ru/docs/Glossary/XHTML
 /ru/docs/Словарь/XML	/ru/docs/Glossary/XML
 /ru/docs/Словарь/application_context	/ru/docs/Glossary/application_context
