@@ -1,6 +1,6 @@
 ---
 title: 'CSP: require-sri-for'
-slug: Web/HTTP/Headers/Content-Security-Policy/require-sri-for
+slug: conflicting/Web/HTTP/Headers/Content-Security-Policy
 tags:
   - CSP
   - Directive
@@ -9,9 +9,11 @@ tags:
   - Security
   - Subresource Integrity
   - require-sri-for
-browser-compat: http.headers.Content-Security-Policy.require-sri-for
 translation_of: Web/HTTP/Headers/Content-Security-Policy/require-sri-for
+original_slug: Web/HTTP/Headers/Content-Security-Policy/require-sri-for
+browser-compat: http.headers.Content-Security-Policy.require-sri-for
 ---
+
 {{deprecated_header}}
 
 [HTTP](/ja/docs/Web/HTTP) の {{HTTPHeader("Content-Security-Policy")}} における **`require-sri-for`** ディレクティブは、クライアントにページ上でスクリプトやスタイルの[サブリソース完全性](/ja/docs/Web/Security/Subresource_Integrity)を要求することを指示します。

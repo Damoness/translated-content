@@ -1,6 +1,7 @@
 ---
 title: 'CSP: require-sri-for'
-slug: Web/HTTP/Headers/Content-Security-Policy/require-sri-for
+slug: >-
+  conflicting/Web/HTTP/Headers/Content-Security-Policy_704552bcbe9a5ea1c3750552bbe09a26
 tags:
   - CSP
   - Content-Security-Policy
@@ -12,7 +13,9 @@ tags:
   - Sécurité
   - require-sri-for
 translation_of: Web/HTTP/Headers/Content-Security-Policy/require-sri-for
+original_slug: Web/HTTP/Headers/Content-Security-Policy/require-sri-for
 ---
+
 {{deprecated_header}}
 
 La directive HTTP {{HTTPHeader("Content-Security-Policy")}} **`require-sri-for`** informe l'agent utilisateur de requérir la vérification [d'intégrité des sous-ressources](/fr/docs/Web/Security/Subresource_Integrity) pour les scripts et styles de la page.
