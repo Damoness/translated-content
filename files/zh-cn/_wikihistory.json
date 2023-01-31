@@ -14017,10 +14017,6 @@
     "modified": "2020-10-15T21:55:10.731Z",
     "contributors": ["shenwenkai"]
   },
-  "Web/API/WebGLRenderingContext/commit": {
-    "modified": "2020-10-15T21:59:26.379Z",
-    "contributors": ["dondevi"]
-  },
   "Web/API/WebGLRenderingContext/compileShader": {
     "modified": "2020-10-15T21:56:26.723Z",
     "contributors": ["yegao", "Char-Ten"]
@@ -35763,6 +35759,10 @@
   "orphaned/Web/API/UIEvent/isChar": {
     "modified": "2019-03-24T00:17:00.068Z",
     "contributors": ["ziyunfei", "teoli", "jsx"]
+  },
+  "orphaned/Web/API/WebGLRenderingContext/commit": {
+    "modified": "2020-10-15T21:59:26.379Z",
+    "contributors": ["dondevi"]
   },
   "orphaned/Web/API/WebRTC_API/adapter.js": {
     "modified": "2020-04-17T09:34:28.178Z",
