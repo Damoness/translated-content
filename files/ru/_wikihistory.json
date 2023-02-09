@@ -1514,105 +1514,43 @@
     "modified": "2020-07-16T22:35:26.905Z",
     "contributors": ["gadjetron", "stephaniehobson"]
   },
-  "Learn/Common_questions/Available_text_editors": {
-    "modified": "2020-07-16T22:35:49.507Z",
-    "contributors": ["Waterdark"]
-  },
-  "Learn/Common_questions/Design_for_all_types_of_users": {
+  "Learn/Common_questions/Design_and_accessibility/Design_for_all_types_of_users": {
     "modified": "2020-07-16T22:35:51.073Z",
     "contributors": ["podocenov"]
   },
-  "Learn/Common_questions/How_do_you_host_your_website_on_Google_App_Engine": {
-    "modified": "2020-12-06T08:00:45.465Z",
-    "contributors": ["valandis", "zloypatrik88", "Glazir", "slychai85"]
-  },
-  "Learn/Common_questions/How_does_the_Internet_work": {
-    "modified": "2020-08-13T11:15:09.762Z",
-    "contributors": [
-      "bogpok",
-      "S-Sukhin",
-      "kss555",
-      "Sturmtiger",
-      "OrkVasya",
-      "andrey_fm",
-      "TinaSuhanovskaya",
-      "elcamlost"
-    ]
-  },
-  "Learn/Common_questions/How_much_does_it_cost": {
-    "modified": "2020-07-16T22:35:46.080Z",
-    "contributors": ["Mandy_May", "lasteris"]
-  },
-  "Learn/Common_questions/Pages_sites_servers_and_search_engines": {
-    "modified": "2020-09-27T11:42:16.769Z",
-    "contributors": [
-      "sailonely",
-      "PinkDeer",
-      "beloglazof",
-      "OrkVasya",
-      "Kipelych",
-      "TinaSuhanovskaya",
-      "Hasyama",
-      "elcamlost"
-    ]
-  },
-  "Learn/Common_questions/Thinking_before_coding": {
+  "Learn/Common_questions/Design_and_accessibility/Thinking_before_coding": {
     "modified": "2020-12-06T16:34:14.303Z",
     "contributors": ["alkrukovsky", "aleshkanet", "GGWP"]
   },
-  "Learn/Common_questions/Upload_files_to_a_web_server": {
+  "Learn/Common_questions/Tools_and_setup/Available_text_editors": {
+    "modified": "2020-07-16T22:35:49.507Z",
+    "contributors": ["Waterdark"]
+  },
+  "Learn/Common_questions/Tools_and_setup/How_do_you_host_your_website_on_Google_App_Engine": {
+    "modified": "2020-12-06T08:00:45.465Z",
+    "contributors": ["valandis", "zloypatrik88", "Glazir", "slychai85"]
+  },
+  "Learn/Common_questions/Tools_and_setup/How_much_does_it_cost": {
+    "modified": "2020-07-16T22:35:46.080Z",
+    "contributors": ["Mandy_May", "lasteris"]
+  },
+  "Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server": {
     "modified": "2020-09-08T06:46:28.361Z",
     "contributors": ["mykhailo.pradosh", "Sireler", "zumgluck", "Sturmtiger"]
   },
-  "Learn/Common_questions/Using_Github_pages": {
+  "Learn/Common_questions/Tools_and_setup/Using_Github_pages": {
     "modified": "2020-07-16T22:35:52.047Z",
     "contributors": ["slychai85"]
   },
-  "Learn/Common_questions/What_are_browser_developer_tools": {
+  "Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools": {
     "modified": "2020-07-16T22:35:48.058Z",
     "contributors": ["mirajane23", "fox67rus", "Metallman", "Dante103"]
   },
-  "Learn/Common_questions/What_are_hyperlinks": {
-    "modified": "2020-11-25T08:11:30.000Z",
-    "contributors": ["NikeSmitt", "Aalexashka", "vladislavukhov", "lerniri"]
-  },
-  "Learn/Common_questions/What_is_a_URL": {
-    "modified": "2020-07-16T22:35:30.373Z",
-    "contributors": ["Excent163", "gadjetron", "vladislavukhov", "lerniri"]
-  },
-  "Learn/Common_questions/What_is_a_domain_name": {
-    "modified": "2020-07-16T22:35:44.834Z",
-    "contributors": [
-      "StasBalia",
-      "sergeyshulzhenko",
-      "CLoud-Maker",
-      "thecodecreator",
-      "Glebowsky",
-      "elcamlost",
-      "makoviychuk",
-      "vladislavukhov"
-    ]
-  },
-  "Learn/Common_questions/What_is_a_web_server": {
-    "modified": "2020-07-16T22:35:32.096Z",
-    "contributors": [
-      "joshua1955",
-      "Dozorengel",
-      "beloglazof",
-      "Geloosa",
-      "erelena",
-      "Sumere4ny",
-      "talgautb",
-      "Xryak",
-      "uralbash",
-      "elcamlost"
-    ]
-  },
-  "Learn/Common_questions/What_software_do_I_need": {
+  "Learn/Common_questions/Tools_and_setup/What_software_do_I_need": {
     "modified": "2020-07-16T22:35:33.685Z",
     "contributors": ["Sturmtiger", "mr.raccoon.dev"]
   },
-  "Learn/Common_questions/set_up_a_local_testing_server": {
+  "Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server": {
     "modified": "2020-11-20T18:21:00.561Z",
     "contributors": [
       "rsvato",
@@ -1627,6 +1565,68 @@
       "Npmb",
       "cybspace",
       "teedree"
+    ]
+  },
+  "Learn/Common_questions/Web_mechanics/How_does_the_Internet_work": {
+    "modified": "2020-08-13T11:15:09.762Z",
+    "contributors": [
+      "bogpok",
+      "S-Sukhin",
+      "kss555",
+      "Sturmtiger",
+      "OrkVasya",
+      "andrey_fm",
+      "TinaSuhanovskaya",
+      "elcamlost"
+    ]
+  },
+  "Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines": {
+    "modified": "2020-09-27T11:42:16.769Z",
+    "contributors": [
+      "sailonely",
+      "PinkDeer",
+      "beloglazof",
+      "OrkVasya",
+      "Kipelych",
+      "TinaSuhanovskaya",
+      "Hasyama",
+      "elcamlost"
+    ]
+  },
+  "Learn/Common_questions/Web_mechanics/What_are_hyperlinks": {
+    "modified": "2020-11-25T08:11:30.000Z",
+    "contributors": ["NikeSmitt", "Aalexashka", "vladislavukhov", "lerniri"]
+  },
+  "Learn/Common_questions/Web_mechanics/What_is_a_URL": {
+    "modified": "2020-07-16T22:35:30.373Z",
+    "contributors": ["Excent163", "gadjetron", "vladislavukhov", "lerniri"]
+  },
+  "Learn/Common_questions/Web_mechanics/What_is_a_domain_name": {
+    "modified": "2020-07-16T22:35:44.834Z",
+    "contributors": [
+      "StasBalia",
+      "sergeyshulzhenko",
+      "CLoud-Maker",
+      "thecodecreator",
+      "Glebowsky",
+      "elcamlost",
+      "makoviychuk",
+      "vladislavukhov"
+    ]
+  },
+  "Learn/Common_questions/Web_mechanics/What_is_a_web_server": {
+    "modified": "2020-07-16T22:35:32.096Z",
+    "contributors": [
+      "joshua1955",
+      "Dozorengel",
+      "beloglazof",
+      "Geloosa",
+      "erelena",
+      "Sumere4ny",
+      "talgautb",
+      "Xryak",
+      "uralbash",
+      "elcamlost"
     ]
   },
   "Learn/Forms": {
